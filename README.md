@@ -12,13 +12,17 @@ This project uses a fully simulated dataset of 120 hypothetical students. It con
 
 ## Methods and tools
 
-Python, NumPy, pandas, and Matplotlib are used to generate the reproducible sample, summarize groups, and create two static visualizations. The scatterplot compares study hours with scores and displays the simulation's segmented average patterns. The boxplot compares score distributions by tutoring status.
+Python, NumPy, pandas, and Matplotlib are used to generate the reproducible sample, summarize groups, and create three static visualizations. The scatterplot compares study hours with scores and displays the simulation's segmented average patterns. The boxplot compares score distributions by tutoring status. A binned mean plot compares the tutoring groups within study-hour bands and makes high-score differences easier to inspect.
 
 ## Key findings
 
 In this simulated example, scores rise more quickly up to about 15 study hours per week and then rise more slowly. The tutoring group is generated with an approximately five-point score offset at the same study time. See the figures in `figures/` for the pattern and spread.
 
 These are properties intentionally built into the simulated data. They are not empirical findings about real students, and the tutoring difference does not establish a causal effect.
+
+## Peer-feedback improvement
+
+A classmate noted that many scores at the high end reached the 100-point ceiling, making small differences difficult to see. I kept the original scatterplot because it shows individual variation, then added `figures/binned-score-comparison.png` to focus on students studying at least 15 hours. Its upper panel compares group means with descriptive 95% confidence intervals using an explicitly zoomed 85-100 score axis; the lower panel shows the share reaching 100, and labels the group counts. The axis break and ceiling rates make the compression visible instead of implying that small score differences are as large as the visual zoom might suggest.
 
 ## Limitation
 
