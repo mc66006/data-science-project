@@ -20,9 +20,9 @@ In this simulated example, scores rise more quickly up to about 15 study hours p
 
 These are properties intentionally built into the simulated data. They are not empirical findings about real students, and the tutoring difference does not establish a causal effect.
 
-## Peer-feedback improvement
+## Visualization refinement
 
-A classmate noted that many scores at the high end reached the 100-point ceiling, making small differences difficult to see. I kept the original scatterplot because it shows individual variation, then added `figures/binned-score-comparison.png` to focus on students studying at least 15 hours. Its upper panel compares group means with descriptive 95% confidence intervals using an explicitly zoomed 85-100 score axis; the lower panel shows the share reaching 100, and labels the group counts. The axis break and ceiling rates make the compression visible instead of implying that small score differences are as large as the visual zoom might suggest.
+The analysis includes `figures/binned-score-comparison.png` to inspect scores for students studying at least 15 hours. Its upper panel compares group means with descriptive 95% confidence intervals on an explicitly zoomed 85–100 score axis; the lower panel shows the share reaching 100 and labels group counts. This is a visualization refinement. It should be described as a peer-feedback response only if the student can confirm the actual review and record it in the portfolio repository.
 
 ## Limitation
 
