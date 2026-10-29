@@ -34,3 +34,6 @@ python src/analyze.py
 ```
 
 Proposal 1 uses Seattle Open Data rent and housing tables. The portal credits CoStar Group data prepared by the City of Seattle for the rent indicator and King County Assessor records for the home-flip indicator; redistribution terms and any third-party restrictions should be checked before reuse. Proposal 2 uses a College Scorecard institution-level extract downloaded from the U.S. Department of Education data portal. Learning Time uses synthetic data generated in the repository and contains no real student records.
+## Methods, findings, and limitations
+
+Each project folder contains its own research question, data provenance and usage note, methods, findings, limitation, notebook or script, figures, and run instructions. Proposal 1 is an aggregate, observational Seattle analysis, so its associations do not establish causal housing effects. Proposal 2 uses institution-level College Scorecard measures; cohort, inflation, aid, selectivity, field, geography, debt, and living costs remain potential confounders. Learning Time uses a fixed-seed synthetic dataset, so its patterns cannot be generalized to real students. The shared requirements.txt file lists the Python and Jupyter dependencies. No passwords, API keys, personal records, or restricted datasets are included.
