@@ -20,7 +20,7 @@ Is annual undergraduate tuition associated with the median earnings of students 
 
 ## Data provenance and responsible use
 
-The institution-level CSV extract was downloaded from the U.S. Department of Education [College Scorecard data portal](https://collegescorecard.ed.gov/data/). When checked on 2026-10-29, the portal stated that the data were last updated on 2026-10-15; the exact release date of the archived CSV supplied with this project has not been verified. The analysis uses aggregate institutional measures, including tuition and median earnings ten years after entry, and does not use individual student records. Consult the official source page and its current data-use notice before redistributing the archived extract outside this coursework.
+The institution-level CSV extract was downloaded from the U.S. Department of Education [College Scorecard data portal](https://collegescorecard.ed.gov/data/). When checked on 2026-10-29, the portal stated that the data were last updated on 2026-10-15; the exact release date of the archived CSV used here has not been verified. The analysis uses aggregate institutional measures, including tuition and median earnings ten years after entry, and does not use individual student records. Consult the official source page and its current data-use notice before redistributing the archived extract outside this coursework.
 
 ## Reproduce the notebook
 
