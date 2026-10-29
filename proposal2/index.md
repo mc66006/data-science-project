@@ -29,6 +29,3 @@ The institution-level extract was downloaded from the U.S. Department of Educati
 - [Results and limitations](RESULTS.md)
 - [Reproduction script](analyze_college_scorecard.py)
 - [Cleaned data](cleaned_data.csv)
----
-title: CISC7204 Assignment 02 — College Tuition Proposal
----
