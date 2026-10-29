@@ -22,6 +22,3 @@ The [apartment rent dataset](https://data.seattle.gov/d/h27p-5k3i) credits CoSta
 - [Seattle housing data](seattle_homeflip.csv)
 
 The notebook and CSV files accompany an exploratory analysis of datasets downloaded from Seattle Open Data. The analysis is exploratory and uses aggregated tract-level observations, so its associations should not be interpreted as causal effects.
----
-title: CISC7204 Assignment 01 — Seattle Rent Proposal
----
