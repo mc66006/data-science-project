@@ -4,7 +4,7 @@ This repository contains the source files and reproducible analyses behind three
 
 | Folder | Project question | Status | Main materials |
 |---|---|---|---|
-| [`proposal1/`](proposal1/) | How are mixed-income apartment counts associated with Seattle tract-level rents? | Proposal and exploratory analysis | Proposal, notebook, course-provided CSVs, analysis script, four figures |
+| [`proposal1/`](proposal1/) | How are mixed-income apartment counts associated with Seattle tract-level rents? | Proposal and exploratory analysis | Proposal, notebook, downloaded source CSVs, analysis script, four figures |
 | [`proposal2/`](proposal2/) | How are undergraduate tuition and ten-year earnings associated across four-year institutions? | Proposal and exploratory analysis | Proposal, notebook, College Scorecard extract, cleaning script, results, figures |
 | [`learning-time-and-outcomes/`](learning-time-and-outcomes/) | In a simulated sample, how do study time and tutoring relate to scores? | Completed simulation demonstration | Reproducible generator, synthetic CSV, three figures |
 
