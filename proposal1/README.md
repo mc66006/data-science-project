@@ -14,7 +14,7 @@ The rent table is downloaded from Seattle Open Data’s [Apartment Market Rent P
 
 The script standardizes column names and numeric types, removes incomplete analysis rows and non-positive rent observations, then summarizes rent over time, by community, and against mixed-income apartment counts. It creates four labeled figures and reports Pearson correlations.
 
-- 4,500 source rows were provided; 3,931 positive-rent observations remain after cleaning, spanning 160 tracts.
+- The downloaded source contains 4,500 rows; 3,931 positive-rent observations remain after cleaning, spanning 160 tracts.
 - Mean monthly contract rent per unit is approximately **$1,486**; the median is approximately **$1,432**.
 - Mixed-income apartment count has a positive cross-sectional association with rent level (**r = 0.4643**) and nearly no linear association with year-over-year rent growth (**r = -0.0136**).
 - A quadratic model in the notebook reports R² of **0.454** for a random split and **0.479** for a time-based split. These are exploratory predictive checks, not causal evidence.
