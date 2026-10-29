@@ -1,6 +1,6 @@
 # Assignment 01 — Seattle Apartment Rent and Mixed-Income Housing
 
-This folder contains the preliminary CISC7204 proposal, exploratory notebook, course-provided data, a reproducible analysis script, and generated visualizations.
+This folder contains the preliminary CISC7204 proposal, exploratory notebook, publicly downloaded source data, a reproducible analysis script, and generated visualizations.
 
 ## Research question
 
