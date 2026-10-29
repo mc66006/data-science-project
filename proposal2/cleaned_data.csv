@@ -1,0 +1,1732 @@
+unit_id,institution_name,tuition_in,tuition_out,earnings_10yr,earnings_count,institution_type
+100654,Alabama A & M University,10558.0,19318.0,41266.0,1671.0,Public
+100663,University of Alabama at Birmingham,9812.0,23684.0,59631.0,4036.0,Public
+100706,University of Alabama in Huntsville,12458.0,27148.0,72098.0,1788.0,Public
+100724,Alabama State University,11248.0,19576.0,40585.0,2428.0,Public
+100751,The University of Alabama,12484.0,35342.0,66081.0,7344.0,Public
+100830,Auburn University at Montgomery,10339.0,21643.0,51305.0,1745.0,Public
+100858,Auburn University,13318.0,36022.0,73273.0,4488.0,Public
+101116,South University-Montgomery,18145.0,18145.0,39314.0,20910.0,Private
+101189,Faulkner University,26590.0,26590.0,48627.0,1553.0,Private
+101435,Huntingdon College,29570.0,29570.0,54423.0,627.0,Private
+101453,Heritage Christian University,12710.0,12710.0,47059.0,22.0,Private
+101480,Jacksonville State University,13224.0,23814.0,51004.0,3063.0,Public
+101587,University of West Alabama,10960.0,20710.0,47856.0,1049.0,Public
+101675,Miles College,13264.0,13264.0,38127.0,1024.0,Private
+101693,University of Mobile,27930.0,27930.0,48418.0,684.0,Private
+101709,University of Montevallo,14416.0,27886.0,46010.0,982.0,Public
+101879,University of North Alabama,12480.0,22680.0,50557.0,2073.0,Public
+101912,Oakwood University,24112.0,24112.0,47707.0,701.0,Private
+102049,Samford University,41910.0,41910.0,66982.0,693.0,Private
+102094,University of South Alabama,10476.0,19452.0,53069.0,4401.0,Public
+102234,Spring Hill College,25300.0,25300.0,58881.0,435.0,Private
+102270,Stillman College,12700.0,12700.0,40800.0,461.0,Private
+102298,Talladega College,15650.0,15650.0,38238.0,583.0,Private
+102368,Troy University,10704.0,20880.0,49010.0,6360.0,Public
+102377,Tuskegee University,25598.0,25598.0,57833.0,1083.0,Private
+102395,United States Sports University,14840.0,14840.0,56044.0,90.0,Private
+102553,University of Alaska Anchorage,7966.0,22366.0,53994.0,4088.0,Public
+102614,University of Alaska Fairbanks,8956.0,23352.0,52180.0,1802.0,Public
+104151,Arizona State University Campus Immersion,12975.0,35167.0,69111.0,22781.0,Public
+104179,University of Arizona,13906.0,43068.0,67414.0,9239.0,Public
+104586,Embry-Riddle Aeronautical University-Prescott,45941.0,45941.0,92069.0,4378.0,Private
+104717,Grand Canyon University,17900.0,17900.0,50609.0,24951.0,Private
+105330,Northern Arizona University,13439.0,30911.0,59083.0,8817.0,Public
+105589,Prescott College,35685.0,35685.0,47260.0,262.0,Private
+105899,Arizona Christian University,35348.0,35348.0,55315.0,271.0,Private
+106245,University of Arkansas at Little Rock,9808.0,22218.0,50640.0,3463.0,Public
+106306,Arkansas Baptist College,8760.0,8760.0,35793.0,907.0,Private
+106342,Lyon College,31000.0,31000.0,49833.0,251.0,Private
+106397,University of Arkansas,10496.0,31550.0,63588.0,6374.0,Public
+106412,University of Arkansas at Pine Bluff,9703.0,18765.0,40307.0,1195.0,Public
+106458,Arkansas State University,8354.0,15002.0,47220.0,5094.0,Public
+106704,University of Central Arkansas,10940.0,18746.0,49756.0,3517.0,Public
+106713,Central Baptist College,23050.0,23050.0,49734.0,390.0,Private
+106810,Crowley's Ridge College,17450.0,17450.0,44146.0,130.0,Private
+107044,Harding University,27282.0,27282.0,56146.0,1207.0,Private
+107071,Henderson State University,8664.0,11112.0,46244.0,1691.0,Public
+107080,Hendrix College,39750.0,39750.0,59310.0,341.0,Private
+107141,John Brown University,32710.0,32710.0,58769.0,826.0,Private
+107512,Ouachita Baptist University,35740.0,35740.0,52333.0,504.0,Private
+107558,University of the Ozarks,26700.0,26700.0,44113.0,212.0,Private
+107600,Philander Smith University,13014.0,13014.0,40195.0,334.0,Private
+107877,Williams Baptist University,22540.0,22540.0,47042.0,271.0,Private
+107983,Southern Arkansas University Main Campus,10200.0,16080.0,46635.0,1238.0,Public
+108232,Academy of Art University,32224.0,32224.0,44567.0,3921.0,Private
+109651,Art Center College of Design,56308.0,56308.0,75975.0,558.0,Private
+109785,Azusa Pacific University,45340.0,45340.0,71595.0,3315.0,Private
+110060,Bethesda University,7220.0,7220.0,51202.0,117.0,Private
+110097,Biola University,50904.0,50904.0,64126.0,1462.0,Private
+110361,California Baptist University,42788.0,42788.0,67633.0,2833.0,Private
+110370,California College of the Arts,61764.0,61764.0,58957.0,410.0,Private
+110404,California Institute of Technology,68208.0,68208.0,166642.0,94.0,Private
+110413,California Lutheran University,54480.0,54480.0,77620.0,1085.0,Private
+110422,California Polytechnic State University-San Luis Obispo,15039.0,37005.0,96304.0,4124.0,Public
+110486,California State University-Bakersfield,8496.0,21816.0,62381.0,3220.0,Public
+110495,California State University-Stanislaus,8690.0,22010.0,65560.0,3120.0,Public
+110510,California State University-San Bernardino,8524.0,21844.0,61951.0,5940.0,Public
+110529,California State Polytechnic University-Pomona,8147.0,21467.0,77464.0,6491.0,Public
+110538,California State University-Chico,8896.0,22216.0,70012.0,5156.0,Public
+110547,California State University-Dominguez Hills,7853.0,21173.0,62587.0,4726.0,Public
+110556,California State University-Fresno,8224.0,21544.0,62756.0,6814.0,Public
+110565,California State University-Fullerton,7952.0,21272.0,69015.0,10508.0,Public
+110574,California State University-East Bay,7993.0,21313.0,73868.0,5141.0,Public
+110583,California State University-Long Beach,8338.0,21658.0,69554.0,9752.0,Public
+110592,California State University-Los Angeles,7530.0,20850.0,62555.0,7477.0,Public
+110608,California State University-Northridge,7850.0,21170.0,63721.0,11453.0,Public
+110617,California State University-Sacramento,9014.0,22334.0,69014.0,9658.0,Public
+110635,University of California-Berkeley,17198.0,54800.0,100212.0,5849.0,Public
+110644,University of California-Davis,17346.0,54948.0,86999.0,7856.0,Public
+110653,University of California-Irvine,16235.0,53837.0,83432.0,7403.0,Public
+110662,University of California-Los Angeles,15729.0,53331.0,88581.0,7285.0,Public
+110671,University of California-Riverside,16103.0,53705.0,72974.0,6324.0,Public
+110680,University of California-San Diego,17337.0,54939.0,96197.0,5954.0,Public
+110705,University of California-Santa Barbara,16989.0,54591.0,82568.0,5714.0,Public
+110714,University of California-Santa Cruz,16585.0,54187.0,73362.0,5423.0,Public
+111081,California Institute of the Arts,61354.0,61354.0,45380.0,305.0,Private
+111188,Cal Poly Maritime Academy,10310.0,23630.0,105475.0,355.0,Public
+111948,Chapman University,67894.0,67894.0,80694.0,1759.0,Private
+111966,Charles R Drew University of Medicine and Science,23407.0,23407.0,79596.0,93.0,Private
+112075,Concordia University-Irvine,44500.0,44500.0,72184.0,889.0,Private
+112084,San Diego Christian College,29448.0,29448.0,50007.0,544.0,Private
+112260,Claremont McKenna College,72120.0,72120.0,127532.0,124.0,Private
+112394,University of Silicon Valley,22480.0,22480.0,59124.0,225.0,Private
+112570,California College of ASU,25186.0,25186.0,53226.0,286.0,Private
+113582,Design Institute of San Diego,29350.0,29350.0,52715.0,87.0,Private
+113698,Dominican University of California,53700.0,53700.0,90053.0,581.0,Private
+114813,Fresno Pacific University,37760.0,37760.0,66140.0,1424.0,Private
+115409,Harvey Mudd College,73100.0,73100.0,164248.0,149.0,Private
+115755,California State Polytechnic University-Humboldt,8824.0,22144.0,54882.0,2922.0,Public
+115773,Humphreys University,13500.0,13500.0,45846.0,447.0,Private
+117104,Life Pacific University,23224.0,23224.0,43561.0,210.0,Private
+117140,University of La Verne,49550.0,49550.0,74115.0,2456.0,Private
+117168,Laguna College of Art and Design,39376.0,39376.0,49168.0,185.0,Private
+117557,Lincoln University,14050.0,14050.0,77205.0,44.0,Private
+117575,Southern California Seminary,19860.0,19860.0,49860.0,21.0,Private
+117627,La Sierra University,38862.0,38862.0,65403.0,937.0,Private
+117636,Loma Linda University,21032.0,21032.0,99540.0,684.0,Private
+117751,The Master's University and Seminary,40910.0,40910.0,58794.0,447.0,Private
+117946,Loyola Marymount University,65857.0,65857.0,86034.0,1613.0,Private
+118693,Menlo College,56320.0,56320.0,76858.0,299.0,Private
+118888,Northeastern University Oakland,71033.0,71033.0,99371.0,4309.0,Private
+119173,Mount Saint Mary's University,51052.0,51052.0,78572.0,1181.0,Private
+119605,National University,13284.0,13284.0,73988.0,5273.0,Private
+119775,Newschool of Architecture and Design,30561.0,30561.0,75045.0,130.0,Private
+120254,Occidental College,68704.0,68704.0,79660.0,438.0,Private
+120403,Otis College of Art and Design,58143.0,58143.0,70469.0,370.0,Private
+120537,Hope International University,38650.0,38650.0,51254.0,483.0,Private
+120768,Pacific Oaks College,15180.0,15180.0,53848.0,368.0,Private
+120883,University of the Pacific,58844.0,58844.0,88053.0,1343.0,Private
+121150,Pepperdine University,72672.0,72672.0,89410.0,958.0,Private
+121257,Pitzer College,67792.0,67792.0,72270.0,156.0,Private
+121309,Point Loma Nazarene University,48450.0,48450.0,68713.0,947.0,Private
+121345,Pomona College,68670.0,68670.0,84281.0,194.0,Private
+121691,University of Redlands,62682.0,62682.0,80659.0,1410.0,Private
+122409,San Diego State University,9180.0,25500.0,73494.0,7791.0,Public
+122436,University of San Diego,62420.0,62420.0,93069.0,1364.0,Private
+122506,San Francisco Conservatory of Music,58150.0,58150.0,47172.0,52.0,Private
+122597,San Francisco State University,8324.0,21644.0,73299.0,8826.0,Public
+122612,University of San Francisco,62462.0,62462.0,94613.0,1816.0,Private
+122728,William Jessup University,37150.0,37150.0,60855.0,564.0,Private
+122755,San Jose State University,8846.0,22166.0,83493.0,8078.0,Public
+122931,Santa Clara University,63513.0,63513.0,117193.0,1216.0,Private
+123165,Scripps College,68532.0,68532.0,84025.0,162.0,Private
+123280,Shasta Bible College and Graduate School,14535.0,14535.0,52967.0,20.0,Private
+123457,Simpson University,40880.0,40880.0,62250.0,616.0,Private
+123554,Saint Mary's College of California,59769.0,59769.0,83501.0,1128.0,Private
+123572,Sonoma State University,9062.0,22382.0,71264.0,2667.0,Public
+123651,Vanguard University of Southern California,43400.0,43400.0,62456.0,1054.0,Private
+123952,Southern California Institute of Architecture,58960.0,58960.0,73810.0,58.0,Private
+123961,University of Southern California,75162.0,75162.0,103420.0,3957.0,Private
+124292,Thomas Aquinas College,31000.0,31000.0,59595.0,111.0,Private
+124487,Epic Bible College & Graduate School,15072.0,15072.0,42300.0,121.0,Private
+125231,Walden University,13140.0,13140.0,54715.0,6527.0,Private
+125727,Westmont College,55724.0,55724.0,70327.0,417.0,Private
+125763,Whittier College,52877.0,52877.0,68254.0,609.0,Private
+125897,Woodbury University,48629.0,48629.0,65896.0,480.0,Private
+126076,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,17900.0,17900.0,35665.0,58.0,Private
+126182,Adams State University,9968.0,22400.0,51295.0,1260.0,Public
+126562,University of Colorado Denver/Anschutz Medical Campus,10835.0,30179.0,69387.0,3672.0,Public
+126580,University of Colorado Colorado Springs,10345.0,24771.0,61386.0,3402.0,Public
+126614,University of Colorado Boulder,17513.0,47142.0,77574.0,5789.0,Public
+126669,Colorado Christian University,42758.0,42758.0,52025.0,2075.0,Private
+126678,Colorado College,73566.0,73566.0,70914.0,256.0,Private
+126775,Colorado School of Mines,22658.0,47288.0,102077.0,1166.0,Public
+126818,Colorado State University-Fort Collins,13774.0,36113.0,66947.0,6948.0,Public
+126827,Colorado Technical University-Colorado Springs,12752.0,12752.0,44720.0,16107.0,Private
+127060,University of Denver,63246.0,63246.0,77205.0,1252.0,Private
+127185,Fort Lewis College,10588.0,22564.0,49164.0,1446.0,Public
+127565,Metropolitan State University of Denver,11540.0,31784.0,57612.0,8406.0,Public
+127653,Naropa University,37700.0,37700.0,36917.0,151.0,Private
+127714,Nazarene Bible College,10482.0,10482.0,44955.0,187.0,Private
+127741,University of Northern Colorado,12882.0,28370.0,56980.0,4018.0,Public
+127918,Regis University,47840.0,47840.0,79971.0,2321.0,Private
+127945,Rocky Mountain College of Art and Design,20190.0,20190.0,45764.0,428.0,Private
+128106,Colorado State University Pueblo,10099.0,18610.0,58700.0,2782.0,Public
+128391,Western Colorado University,11511.0,24963.0,53355.0,788.0,Public
+128498,Albertus Magnus College,43118.0,43118.0,62459.0,684.0,Private
+128744,University of Bridgeport,35760.0,35760.0,56082.0,1280.0,Private
+128771,Central Connecticut State University,13050.0,16550.0,65779.0,3639.0,Public
+128780,Charter Oak State College,8506.0,8506.0,65844.0,605.0,Public
+128902,Connecticut College,70266.0,70266.0,82225.0,413.0,Private
+129020,University of Connecticut,21334.0,44002.0,82098.0,6722.0,Public
+129215,Eastern Connecticut State University,14008.0,17508.0,60748.0,2073.0,Public
+129242,Fairfield University,60810.0,60810.0,101587.0,1170.0,Private
+129525,University of Hartford,50445.0,50445.0,66020.0,2083.0,Private
+129774,Mitchell College,41610.0,41610.0,49631.0,346.0,Private
+129941,University of New Haven,49320.0,49320.0,69320.0,2181.0,Private
+130183,Post University,16499.0,16499.0,44639.0,5860.0,Private
+130226,Quinnipiac University,57700.0,57700.0,87596.0,2184.0,Private
+130253,Sacred Heart University,52410.0,52410.0,80896.0,1931.0,Private
+130314,University of Saint Joseph,48686.0,48686.0,67897.0,441.0,Private
+130493,Southern Connecticut State University,13438.0,27378.0,59695.0,3246.0,Public
+130590,Trinity College,73590.0,73590.0,103089.0,363.0,Private
+130697,Wesleyan University,73128.0,73128.0,86811.0,541.0,Private
+130776,Western Connecticut State University,13401.0,16901.0,62010.0,1967.0,Public
+130794,Yale University,69900.0,69900.0,118356.0,518.0,Private
+130934,Delaware State University,11214.0,21204.0,51864.0,2744.0,Public
+130943,University of Delaware,17660.0,43220.0,83800.0,5239.0,Public
+130989,Goldey-Beacom College,17160.0,17160.0,56160.0,247.0,Private
+131113,Wilmington University,12930.0,12930.0,60391.0,3532.0,Private
+131159,American University,62242.0,62242.0,85458.0,1957.0,Private
+131283,The Catholic University of America,60414.0,60414.0,81308.0,1187.0,Private
+131450,Gallaudet University,22120.0,22120.0,49334.0,243.0,Private
+131469,George Washington University,70170.0,70170.0,96691.0,2293.0,Private
+131496,Georgetown University,71338.0,71338.0,110516.0,1284.0,Private
+131520,Howard University,38936.0,38936.0,69682.0,2296.0,Private
+131803,Strayer University-District of Columbia,13920.0,13920.0,44016.0,19948.0,Private
+131876,Trinity Washington University,27135.0,27135.0,57561.0,944.0,Private
+132408,Baptist University of Florida,14500.0,14500.0,42284.0,190.0,Private
+132471,Barry University,35600.0,35600.0,64837.0,1679.0,Private
+132602,Bethune-Cookman University,14794.0,14794.0,42476.0,1711.0,Private
+132657,Lynn University,46450.0,46450.0,58891.0,429.0,Private
+132842,Albizu University-Miami,13818.0,13818.0,48006.0,287.0,Private
+132903,University of Central Florida,6368.0,24076.0,63483.0,18896.0,Public
+133465,South University-West Palm Beach,18145.0,18145.0,39314.0,20910.0,Private
+133492,Eckerd College,53436.0,53436.0,57875.0,748.0,Private
+133526,Edward Waters University,16366.0,16366.0,37946.0,492.0,Private
+133553,Embry-Riddle Aeronautical University-Daytona Beach,46181.0,46181.0,92069.0,4378.0,Private
+133650,Florida Agricultural and Mechanical University,5785.0,17734.0,52104.0,3298.0,Public
+133669,Florida Atlantic University,4879.0,17324.0,61062.0,9264.0,Public
+133711,Flagler College,33490.0,33490.0,54606.0,1453.0,Private
+133809,Florida College,21628.0,21628.0,52207.0,280.0,Private
+133872,AdventHealth University,21780.0,21780.0,74765.0,1051.0,Private
+133881,Florida Institute of Technology,46669.0,46669.0,50557.0,3518.0,Private
+133951,Florida International University,6565.0,20204.0,65722.0,14219.0,Public
+133979,Florida Memorial University,20174.0,20174.0,40290.0,718.0,Private
+134079,Florida Southern College,46168.0,46168.0,60802.0,896.0,Private
+134097,Florida State University,5656.0,20116.0,68225.0,9729.0,Public
+134130,University of Florida,6381.0,30886.0,78456.0,8457.0,Public
+134237,Full Sail University,27145.0,27145.0,40548.0,15101.0,Private
+134510,Hobe Sound Bible College,9518.0,9518.0,41247.0,54.0,Private
+134945,Jacksonville University,49800.0,49800.0,77598.0,1527.0,Private
+135364,Luther Rice College & Seminary,12056.0,12056.0,49305.0,181.0,Private
+135726,University of Miami,65430.0,65430.0,84093.0,2280.0,Private
+136172,University of North Florida,6389.0,20793.0,59626.0,5004.0,Public
+136215,Nova Southeastern University,40360.0,40360.0,66144.0,2865.0,Private
+136330,Palm Beach Atlantic University,42250.0,42250.0,55772.0,1169.0,Private
+136774,Ringling College of Art and Design,60170.0,60170.0,55053.0,415.0,Private
+136950,Rollins College,62950.0,62950.0,64156.0,816.0,Private
+137032,Saint Leo University,30750.0,30750.0,53366.0,6048.0,Private
+137272,St. John Vianney College Seminary,25500.0,25500.0,54335.0,24.0,Private
+137351,University of South Florida,6410.0,18416.0,63660.0,12896.0,Public
+137476,St. Thomas University,35780.0,35780.0,58912.0,518.0,Private
+137546,Stetson University,59690.0,59690.0,59422.0,1089.0,Private
+137564,Southeastern University,33740.0,33740.0,49323.0,1087.0,Private
+137777,Talmudic College of Florida,17200.0,17200.0,48840.0,32.0,Private
+137847,The University of Tampa,35744.0,35744.0,69272.0,2408.0,Private
+137953,Trinity College of Jacksonville,15100.0,15100.0,41985.0,163.0,Private
+137962,Trinity College of Florida,16300.0,16300.0,41724.0,102.0,Private
+138275,Warner University,31360.0,31360.0,46512.0,591.0,Private
+138293,Webber International University,34780.0,34780.0,51590.0,784.0,Private
+138354,University of West Florida,6360.0,19241.0,52902.0,4002.0,Public
+138558,Abraham Baldwin Agricultural College,3268.0,10780.0,41999.0,3134.0,Public
+138600,Agnes Scott College,52552.0,52552.0,60457.0,317.0,Private
+138716,Albany State University,5666.0,17330.0,44975.0,4848.0,Public
+138868,Point University,24300.0,24300.0,46450.0,744.0,Private
+138947,Clark Atlanta University,30270.0,30270.0,46867.0,1278.0,Private
+139144,Berry College,43086.0,43086.0,57984.0,712.0,Private
+139153,Beulah Heights University,8492.0,8492.0,39665.0,127.0,Private
+139199,Brenau University,35520.0,35520.0,54638.0,910.0,Private
+139311,Clayton  State University,5240.0,16904.0,54701.0,3018.0,Public
+139366,Columbus State University,5898.0,17946.0,49706.0,2703.0,Public
+139393,Covenant College,43668.0,43668.0,53280.0,400.0,Private
+139463,Dalton State College,3376.0,10888.0,46083.0,2119.0,Public
+139579,South University-Savannah,18145.0,18145.0,39314.0,20910.0,Private
+139630,Emmanuel University,26520.0,26520.0,48171.0,343.0,Private
+139658,Emory University,68056.0,68056.0,93897.0,1560.0,Private
+139719,Fort Valley State University,5556.0,17220.0,41857.0,1599.0,Public
+139755,Georgia Institute of Technology-Main Campus,12008.0,35092.0,114210.0,3140.0,Public
+139764,Georgia Southwestern State University,5220.0,16884.0,55890.0,1234.0,Public
+139861,Georgia College & State University,9176.0,30062.0,64452.0,1811.0,Public
+139931,Georgia Southern University,6022.0,18070.0,59167.0,9239.0,Public
+139940,Georgia State University,8664.0,25320.0,51903.0,20117.0,Public
+139959,University of Georgia,11492.0,32336.0,77246.0,6802.0,Public
+139968,Gordon State College,3628.0,11140.0,46001.0,2255.0,Public
+140234,LaGrange College,36280.0,36280.0,60301.0,447.0,Private
+140252,Life University,15441.0,15441.0,48303.0,567.0,Private
+140340,Herzing University-Atlanta,13820.0,13820.0,44255.0,5812.0,Private
+140447,Mercer University,43570.0,43570.0,63469.0,1769.0,Private
+140553,Morehouse College,34030.0,34030.0,62169.0,753.0,Private
+140696,Oglethorpe University,49430.0,49430.0,60002.0,375.0,Private
+140720,Paine College,15357.0,15357.0,37183.0,371.0,Private
+140818,Piedmont University,32760.0,32760.0,56724.0,711.0,Private
+140872,Reinhardt University,32700.0,32700.0,53450.0,680.0,Private
+140951,Savannah College of Art and Design,42665.0,42665.0,51635.0,2952.0,Private
+140960,Savannah State University,5750.0,17102.0,44180.0,2106.0,Public
+140988,Shorter University,25216.0,25216.0,51757.0,1084.0,Private
+141060,Spelman College,32470.0,32470.0,65773.0,683.0,Private
+141167,Thomas University,11640.0,11640.0,59055.0,500.0,Private
+141185,Toccoa Falls College,24950.0,24950.0,44698.0,396.0,Private
+141237,Truett McConnell University,28152.0,28152.0,47390.0,357.0,Private
+141264,Valdosta State University,6124.0,18172.0,52334.0,4139.0,Public
+141325,Wesleyan College,27650.0,27650.0,44623.0,161.0,Private
+141334,University of West Georgia,6088.0,18136.0,54320.0,4176.0,Public
+141361,Young Harris College,33950.0,33950.0,50776.0,478.0,Private
+141486,Chaminade University of Honolulu,31918.0,31918.0,56938.0,793.0,Private
+141565,University of Hawaii at Hilo,8258.0,21218.0,51003.0,1286.0,Public
+141574,University of Hawaii at Manoa,12402.0,34434.0,62422.0,4220.0,Public
+141644,Hawaii Pacific University,36734.0,36734.0,64656.0,1269.0,Private
+141981,University of Hawaii-West Oahu,7728.0,20688.0,56319.0,813.0,Public
+142090,Boise Bible College,11430.0,11430.0,40668.0,107.0,Private
+142115,Boise State University,9364.0,28478.0,60091.0,5681.0,Public
+142276,Idaho State University,8914.0,28240.0,50919.0,3985.0,Public
+142285,University of Idaho,9400.0,28636.0,58095.0,3061.0,Public
+142294,The College of Idaho,39190.0,39190.0,57623.0,362.0,Private
+142328,Lewis-Clark State College,7876.0,22798.0,52487.0,1688.0,Public
+142461,Northwest Nazarene University,41990.0,41990.0,60370.0,595.0,Private
+143048,School of the Art Institute of Chicago,58220.0,58220.0,47612.0,686.0,Private
+143084,Augustana College,53346.0,53346.0,67144.0,930.0,Private
+143118,Aurora University,29970.0,29970.0,64180.0,1628.0,Private
+143288,Blackburn College,29420.0,29420.0,48794.0,327.0,Private
+143358,Bradley University,43850.0,43850.0,76013.0,1704.0,Private
+144005,Chicago State University,13358.0,13358.0,48395.0,1927.0,Public
+144050,University of Chicago,73962.0,73962.0,103872.0,803.0,Private
+144281,Columbia College Chicago,37344.0,37344.0,48427.0,4260.0,Private
+144351,Concordia University-Chicago,38798.0,38798.0,56714.0,825.0,Private
+144740,DePaul University,47676.0,47676.0,75602.0,5909.0,Private
+144883,East-West University,25395.0,25395.0,34926.0,572.0,Private
+144892,Eastern Illinois University,14654.0,17261.0,55885.0,3527.0,Public
+144962,Elmhurst University,45858.0,45858.0,67398.0,1289.0,Private
+144971,Eureka College,29824.0,29824.0,51381.0,387.0,Private
+145336,Governors State University,13124.0,13124.0,61863.0,1738.0,Public
+145372,Greenville University,33250.0,33250.0,49304.0,626.0,Private
+145497,Hebrew Theological College,16350.0,16350.0,41318.0,397.0,Private
+145600,University of Illinois Chicago,14652.0,30754.0,73666.0,6606.0,Public
+145619,Benedictine University,37650.0,37650.0,67314.0,1758.0,Private
+145637,University of Illinois Urbana-Champaign,16354.0,36706.0,87599.0,7573.0,Public
+145646,Illinois Wesleyan University,59430.0,59430.0,76193.0,615.0,Private
+145691,Illinois College,39854.0,39854.0,57546.0,486.0,Private
+145725,Illinois Institute of Technology,53398.0,53398.0,90804.0,753.0,Private
+145813,Illinois State University,16152.0,28218.0,67557.0,6854.0,Public
+146339,Judson University,31810.0,31810.0,59095.0,492.0,Private
+146427,Knox College,60051.0,60051.0,56244.0,536.0,Private
+146481,Lake Forest College,58902.0,58902.0,70470.0,548.0,Private
+146612,Lewis University,40700.0,40700.0,59389.0,3010.0,Private
+146719,Loyola University Chicago,56060.0,56060.0,78431.0,3271.0,Private
+147013,McKendree University,35430.0,35430.0,63391.0,884.0,Private
+147129,Methodist College,18318.0,18318.0,71324.0,325.0,Private
+147244,Millikin University,26928.0,26928.0,57738.0,1008.0,Private
+147341,Monmouth College,45802.0,45802.0,54098.0,583.0,Private
+147369,Moody Bible Institute,16314.0,16314.0,49594.0,752.0,Private
+147536,National Louis University,13020.0,13020.0,52883.0,1931.0,Private
+147660,North Central College,47340.0,47340.0,65646.0,1202.0,Private
+147679,North Park University,38250.0,38250.0,61717.0,999.0,Private
+147703,Northern Illinois University,13792.0,13792.0,61351.0,6913.0,Public
+147767,Northwestern University,70589.0,70589.0,104255.0,1755.0,Private
+147776,Northeastern Illinois University,12743.0,22581.0,56278.0,3281.0,Public
+147828,Olivet Nazarene University,41120.0,41120.0,58865.0,1427.0,Private
+148131,Quincy University,38400.0,38400.0,55330.0,613.0,Private
+148405,Rockford University,39640.0,39640.0,58999.0,590.0,Private
+148487,Roosevelt University,23154.0,23154.0,56800.0,4496.0,Private
+148496,Dominican University,40608.0,40608.0,66693.0,1002.0,Private
+148575,Saint Francis Medical Center College of Nursing,22008.0,22008.0,80384.0,222.0,Private
+148584,University of St Francis,38900.0,38900.0,69137.0,773.0,Private
+148627,Saint Xavier University,39080.0,39080.0,64661.0,1384.0,Private
+148654,University of Illinois Springfield,12640.0,22795.0,64479.0,1286.0,Public
+149028,Saint Anthony College of Nursing,28648.0,28648.0,85334.0,125.0,Private
+149222,Southern Illinois University-Carbondale,13544.0,13544.0,57388.0,5984.0,Public
+149231,Southern Illinois University Edwardsville,13299.0,13299.0,59436.0,4659.0,Public
+149505,Trinity Christian College,21205.0,21205.0,60507.0,617.0,Private
+149514,Trinity International University-Illinois,12210.0,12210.0,51278.0,547.0,Private
+149639,VanderCook College of Music,31840.0,31840.0,54590.0,43.0,Private
+149772,Western Illinois University,15466.0,15466.0,57175.0,4718.0,Public
+149781,Wheaton College,47770.0,47770.0,68390.0,619.0,Private
+150066,Anderson University,38900.0,38900.0,52590.0,877.0,Private
+150136,Ball State University,11082.0,29630.0,56674.0,6340.0,Public
+150145,Bethel University,35380.0,35380.0,54006.0,807.0,Private
+150163,Butler University,49890.0,49890.0,83535.0,1309.0,Private
+150172,Calumet College of Saint Joseph,24820.0,24820.0,50059.0,398.0,Private
+150400,DePauw University,61430.0,61430.0,77170.0,547.0,Private
+150455,Earlham College,55814.0,55814.0,49427.0,271.0,Private
+150534,University of Evansville,46014.0,46014.0,58943.0,790.0,Private
+150604,Franklin College,40010.0,40010.0,61877.0,458.0,Private
+150668,Goshen College,40060.0,40060.0,61420.0,344.0,Private
+150677,Grace College and Theological Seminary,32412.0,32412.0,49160.0,613.0,Private
+150756,Hanover College,45727.0,45727.0,59112.0,461.0,Private
+150774,Holy Cross College,37700.0,37700.0,58101.0,209.0,Private
+150941,Huntington University,33144.0,33144.0,46983.0,432.0,Private
+151102,Purdue University Fort Wayne,9532.0,23573.0,51617.0,4148.0,Public
+151111,Indiana University-Indianapolis,10762.0,35227.0,58990.0,8927.0,Public
+151263,University of Indianapolis,38308.0,38308.0,58791.0,1867.0,Private
+151290,Indiana Institute of Technology,32459.0,32459.0,47076.0,3042.0,Private
+151324,Indiana State University,10258.0,22926.0,52316.0,4728.0,Public
+151333,Indiana University-Kokomo,8424.0,23032.0,52440.0,1315.0,Public
+151342,Indiana University-South Bend,8424.0,23032.0,50051.0,2439.0,Public
+151351,Indiana University-Bloomington,12144.0,42295.0,70105.0,8285.0,Public
+151360,Indiana University-Northwest,8424.0,23032.0,48764.0,2067.0,Public
+151379,Indiana University-Southeast,8424.0,23032.0,52768.0,2357.0,Public
+151388,Indiana University-East,8424.0,23032.0,52038.0,1533.0,Public
+151777,Manchester University,38594.0,38594.0,60682.0,606.0,Private
+151786,Marian University,42100.0,42100.0,64806.0,1113.0,Private
+151801,Indiana Wesleyan University-Marion,33314.0,33314.0,65692.0,6324.0,Private
+152080,University of Notre Dame,67607.0,67607.0,113124.0,1747.0,Private
+152099,Oakland City University,27900.0,27900.0,53253.0,289.0,Private
+152318,Rose-Hulman Institute of Technology,60850.0,60850.0,107683.0,659.0,Private
+152336,University of Saint Francis-Fort Wayne,37550.0,37550.0,56484.0,993.0,Private
+152381,Saint Mary-of-the-Woods College,35340.0,35340.0,47279.0,330.0,Private
+152390,Saint Mary's College,55093.0,55093.0,69044.0,445.0,Private
+152530,Taylor University,41350.0,41350.0,58997.0,586.0,Private
+152567,Trine University,37480.0,37480.0,65360.0,1021.0,Private
+152600,Valparaiso University,50390.0,50390.0,69661.0,1210.0,Private
+152673,Wabash College,52400.0,52400.0,71578.0,342.0,Private
+152992,Briar Cliff University,39064.0,39064.0,59643.0,590.0,Private
+153001,Buena Vista University,43052.0,43052.0,51626.0,1511.0,Private
+153108,Central College,21934.0,21934.0,57387.0,609.0,Private
+153126,Clarke University,42420.0,42420.0,58625.0,476.0,Private
+153144,Coe College,56730.0,56730.0,60502.0,563.0,Private
+153162,Cornell College,54776.0,54776.0,57224.0,458.0,Private
+153250,Dordt University,38040.0,38040.0,57576.0,549.0,Private
+153269,Drake University,52130.0,52130.0,78855.0,1148.0,Private
+153278,University of Dubuque,44190.0,44190.0,60869.0,982.0,Private
+153320,Faith Baptist Bible College and Theological Seminary,21100.0,21100.0,41000.0,115.0,Private
+153366,Graceland University-Lamoni,22040.0,22040.0,53979.0,724.0,Private
+153375,Grand View University,36136.0,36136.0,58718.0,1198.0,Private
+153384,Grinnell College,72346.0,72346.0,72106.0,372.0,Private
+153603,Iowa State University,11092.0,30140.0,67568.0,8876.0,Public
+153658,University of Iowa,11622.0,33710.0,70727.0,5601.0,Public
+153825,Loras College,41418.0,41418.0,63900.0,595.0,Private
+153834,Luther College,54250.0,54250.0,61821.0,820.0,Private
+153861,Maharishi International University,18530.0,18530.0,38786.0,157.0,Private
+153977,Mercy College of Health Sciences,18024.0,18024.0,63983.0,549.0,Private
+154004,Morningside University,41190.0,41190.0,58902.0,665.0,Private
+154013,Mount Mercy University,42772.0,42772.0,59669.0,696.0,Private
+154022,The University of Arizona Global Campus,11960.0,11960.0,39232.0,57315.0,Public
+154095,University of Northern Iowa,10201.0,22359.0,57187.0,4015.0,Public
+154101,Northwestern College,38360.0,38360.0,57028.0,496.0,Private
+154235,Saint Ambrose University,38113.0,38113.0,66659.0,1200.0,Private
+154350,Simpson College,48988.0,48988.0,57816.0,895.0,Private
+154493,Upper Iowa University,20000.0,20000.0,57736.0,2544.0,Private
+154518,Waldorf University,26758.0,26758.0,58667.0,692.0,Private
+154527,Wartburg College,27300.0,27300.0,60035.0,681.0,Private
+154590,William Penn University,30800.0,30800.0,52106.0,957.0,Private
+154688,Baker University,36000.0,36000.0,69658.0,911.0,Private
+154712,Benedictine College,37750.0,37750.0,58102.0,657.0,Private
+154721,Bethany College,34200.0,34200.0,56377.0,274.0,Private
+154749,Bethel College-North Newton,36058.0,36058.0,58029.0,249.0,Private
+154855,Central Christian College of Kansas,25755.0,25755.0,46855.0,523.0,Private
+155025,Emporia State University,7226.0,15539.0,50860.0,1487.0,Public
+155061,Fort Hays State University,6111.0,18433.0,53030.0,3645.0,Public
+155070,Barclay College,24670.0,24670.0,40829.0,110.0,Private
+155089,Friends University,35685.0,35685.0,54046.0,970.0,Private
+155317,University of Kansas,12453.0,31332.0,67963.0,5643.0,Public
+155335,Newman University,37000.0,37000.0,55478.0,687.0,Private
+155399,Kansas State University,11579.0,29533.0,61473.0,6283.0,Public
+155414,Kansas Wesleyan University,36214.0,36214.0,57332.0,414.0,Private
+155496,Manhattan Christian College,19126.0,19126.0,47738.0,149.0,Private
+155511,McPherson College,38974.0,38974.0,51560.0,374.0,Private
+155520,MidAmerica Nazarene University,38620.0,38620.0,70804.0,871.0,Private
+155627,Ottawa University-Ottawa,36650.0,36650.0,59897.0,1504.0,Private
+155681,Pittsburg State University,8599.0,19943.0,53785.0,2634.0,Public
+155812,University of Saint Mary,36780.0,36780.0,66336.0,442.0,Private
+155900,Southwestern College,40814.0,40814.0,58452.0,700.0,Private
+155937,Sterling College,35200.0,35200.0,50326.0,319.0,Private
+155973,Tabor College,36950.0,36950.0,58789.0,453.0,Private
+156082,Washburn University,10256.0,10256.0,53102.0,2702.0,Public
+156125,Wichita State University,9948.0,20613.0,56003.0,4290.0,Public
+156189,Alice Lloyd College,14058.0,14058.0,47366.0,328.0,Private
+156213,Asbury University,35452.0,35452.0,49862.0,583.0,Private
+156286,Bellarmine University,50490.0,50490.0,64121.0,1007.0,Private
+156295,Berea College,55480.0,55480.0,48071.0,671.0,Private
+156356,Brescia University,32550.0,32550.0,49034.0,482.0,Private
+156365,Campbellsville University,29618.0,29618.0,44606.0,1188.0,Private
+156408,Centre College,55490.0,55490.0,66582.0,349.0,Private
+156417,Clear Creek Baptist Bible College,10995.0,10995.0,38211.0,56.0,Private
+156541,University of the Cumberlands,9875.0,9875.0,47477.0,831.0,Private
+156620,Eastern Kentucky University,10740.0,12300.0,50885.0,5426.0,Public
+156745,Georgetown College,43678.0,43678.0,55880.0,463.0,Private
+157030,Kentucky Mountain Bible College,10360.0,10360.0,39068.0,34.0,Private
+157058,Kentucky State University,9807.0,14147.0,42650.0,999.0,Public
+157076,Kentucky Wesleyan College,36030.0,36030.0,52218.0,380.0,Private
+157085,University of Kentucky,13907.0,35164.0,63924.0,6214.0,Public
+157100,Kentucky Christian University,27655.0,27655.0,47183.0,375.0,Private
+157216,Lindsey Wilson University,28392.0,28392.0,45750.0,1243.0,Private
+157289,University of Louisville,13390.0,29736.0,60032.0,5176.0,Public
+157377,Midway University,28220.0,28220.0,47169.0,723.0,Private
+157386,Morehead State University,10444.0,15614.0,47134.0,3148.0,Public
+157401,Murray State University,10320.0,20676.0,48482.0,3128.0,Public
+157447,Northern Kentucky University,11496.0,22752.0,55024.0,4676.0,Public
+157535,University of Pikeville,25650.0,25650.0,47890.0,820.0,Private
+157757,Spalding University,30450.0,30450.0,55738.0,640.0,Private
+157809,Thomas More University,41400.0,41400.0,63897.0,596.0,Private
+157818,Transylvania University,48920.0,48920.0,57381.0,314.0,Private
+157863,Union Commonwealth University,31809.0,31809.0,46405.0,444.0,Private
+157951,Western Kentucky University,12072.0,27000.0,48408.0,6240.0,Public
+158477,Centenary College of Louisiana,43450.0,43450.0,59034.0,267.0,Private
+158802,Dillard University,23918.0,23918.0,43728.0,594.0,Private
+159009,Grambling State University,7783.0,16795.0,41535.0,1598.0,Public
+159382,Louisiana State University at Alexandria,7050.0,14650.0,46481.0,853.0,Public
+159391,Louisiana State University and Agricultural & Mechanical College,12551.0,29228.0,64338.0,5849.0,Public
+159416,Louisiana State University-Shreveport,7952.0,7952.0,49677.0,1164.0,Public
+159568,Louisiana Christian University,22304.0,22304.0,49573.0,568.0,Private
+159647,Louisiana Tech University,10734.0,17475.0,58121.0,2008.0,Public
+159656,Loyola University New Orleans,51664.0,51664.0,59326.0,1118.0,Private
+159717,McNeese State University,9084.0,10584.0,50152.0,2253.0,Public
+159939,University of New Orleans,9472.0,14308.0,53518.0,2324.0,Public
+159966,Nicholls State University,8741.0,9834.0,49144.0,2022.0,Public
+159993,University of Louisiana at Monroe,9556.0,13467.0,49742.0,2053.0,Public
+160038,Northwestern State University of Louisiana,9370.0,20158.0,51238.0,2769.0,Public
+160065,University of Holy Cross,17206.0,17206.0,53531.0,374.0,Private
+160074,Franciscan Missionaries of Our Lady University,16553.0,16553.0,63092.0,796.0,Private
+160409,Saint Joseph Seminary College,29105.0,29105.0,35921.0,16.0,Private
+160612,Southeastern Louisiana University,9043.0,21521.0,49502.0,4028.0,Public
+160621,Southern University and A & M College,9958.0,17308.0,47186.0,1810.0,Public
+160630,Southern University at New Orleans,8410.0,17310.0,42300.0,962.0,Public
+160658,University of Louisiana at Lafayette,11460.0,25188.0,52638.0,4246.0,Public
+160755,Tulane University of Louisiana,71998.0,71998.0,68226.0,1863.0,Private
+160904,Xavier University of Louisiana,30298.0,30298.0,59737.0,1073.0,Private
+160959,College of the Atlantic,49464.0,49464.0,47967.0,120.0,Private
+160977,Bates College,70146.0,70146.0,98373.0,232.0,Private
+161004,Bowdoin College,71740.0,71740.0,90153.0,259.0,Private
+161086,Colby College,72910.0,72910.0,88776.0,268.0,Private
+161217,University of Maine at Augusta,9698.0,23378.0,44543.0,1980.0,Public
+161226,University of Maine at Farmington,11658.0,24798.0,47674.0,848.0,Public
+161235,University of Maine at Fort Kent,9720.0,15390.0,56874.0,388.0,Public
+161253,University of Maine,13760.0,37910.0,59140.0,3601.0,Public
+161299,Maine Maritime Academy,15622.0,31450.0,101511.0,465.0,Public
+161341,University of Maine at Presque Isle,9708.0,15378.0,47161.0,406.0,Public
+161457,University of New England,45900.0,45900.0,68670.0,1171.0,Private
+161509,Maine College of Art & Design,44358.0,44358.0,38062.0,193.0,Private
+161518,Saint Joseph's College of Maine,45744.0,45744.0,69579.0,722.0,Private
+161554,University of Southern Maine,12630.0,31080.0,57989.0,2601.0,Public
+161563,Thomas College,32654.0,32654.0,53206.0,437.0,Private
+161572,Unity Environmental University,12640.0,12640.0,46894.0,263.0,Private
+161873,University of Baltimore,10200.0,24474.0,65666.0,1369.0,Public
+162007,Bowie State University,9529.0,20464.0,61890.0,1740.0,Public
+162061,Capitol Technology University,28258.0,28258.0,100085.0,172.0,Private
+162210,Washington Adventist University,26604.0,26604.0,61426.0,486.0,Private
+162283,Coppin State University,7418.0,14482.0,53198.0,1195.0,Public
+162584,Frostburg State University,10464.0,26356.0,60300.0,1671.0,Public
+162654,Goucher College,55300.0,55300.0,59069.0,436.0,Private
+162760,Hood College,49380.0,49380.0,60061.0,570.0,Private
+162928,Johns Hopkins University,67170.0,67170.0,104590.0,1352.0,Private
+163046,Loyola University Maryland,59150.0,59150.0,90179.0,1178.0,Private
+163204,University of Maryland Global Campus,8280.0,12336.0,68110.0,11835.0,Public
+163268,University of Maryland-Baltimore County,13679.0,32735.0,74881.0,3177.0,Public
+163286,University of Maryland-College Park,12290.0,42053.0,89228.0,6454.0,Public
+163295,Maryland Institute College of Art,56800.0,56800.0,49751.0,597.0,Private
+163338,University of Maryland Eastern Shore,9366.0,20911.0,52085.0,1525.0,Public
+163453,Morgan State University,8346.0,19456.0,56585.0,2513.0,Public
+163462,Mount St. Mary's University,50200.0,50200.0,69690.0,712.0,Private
+163532,Ner Israel Rabbinical College,11200.0,11200.0,68364.0,54.0,Private
+163578,Notre Dame of Maryland University,45275.0,45275.0,69464.0,456.0,Private
+163851,Salisbury University,11306.0,22810.0,68206.0,2856.0,Public
+163912,St. Mary's College of Maryland,15686.0,32244.0,66796.0,468.0,Public
+163976,St. John's College,42317.0,42317.0,52985.0,132.0,Private
+164076,Towson University,12186.0,31332.0,70158.0,6075.0,Public
+164173,Stevenson University,41278.0,41278.0,69703.0,1655.0,Private
+164216,Washington College,56988.0,56988.0,74001.0,455.0,Private
+164270,McDaniel College,54125.0,54125.0,62070.0,604.0,Private
+164447,American International College,45530.0,45530.0,66151.0,759.0,Private
+164465,Amherst College,73830.0,73830.0,95161.0,246.0,Private
+164492,Anna Maria College,45920.0,45920.0,67751.0,546.0,Private
+164562,Assumption University,53420.0,53420.0,73712.0,953.0,Private
+164580,Babson College,58560.0,58560.0,138950.0,436.0,Private
+164614,Boston Baptist College,14304.0,14304.0,42516.0,42.0,Private
+164632,Bay Path University,39061.0,39061.0,57958.0,821.0,Private
+164739,Bentley University,63390.0,63390.0,126427.0,1161.0,Private
+164748,Berklee College of Music,54000.0,54000.0,43451.0,1190.0,Private
+164924,Boston College,73508.0,73508.0,112178.0,1867.0,Private
+164988,Boston University,71372.0,71372.0,89087.0,4080.0,Private
+165015,Brandeis University,70957.0,70957.0,85519.0,960.0,Private
+165024,Bridgewater State University,12194.0,18334.0,61441.0,3748.0,Public
+165167,Cambridge College,14778.0,14778.0,58665.0,426.0,Private
+165334,Clark University,61140.0,61140.0,67223.0,641.0,Private
+165529,Curry College,49420.0,49420.0,69321.0,1038.0,Private
+165574,Dean College,48378.0,48378.0,47982.0,741.0,Private
+165662,Emerson College,59044.0,59044.0,67317.0,1285.0,Private
+165671,Emmanuel College,50694.0,50694.0,73794.0,834.0,Private
+165699,Endicott College,42650.0,42650.0,77059.0,1052.0,Private
+165802,Fisher College,36724.0,36724.0,52749.0,1020.0,Private
+165820,Fitchburg State University,11886.0,17966.0,63428.0,1641.0,Public
+165866,Framingham State University,12220.0,18300.0,63249.0,1843.0,Public
+165936,Gordon College,34300.0,34300.0,59863.0,645.0,Private
+166018,Hampshire College,61124.0,61124.0,47422.0,387.0,Private
+166027,Harvard University,64796.0,64796.0,121957.0,762.0,Private
+166054,Hellenic College-Holy Cross Greek Orthodox School of Theology,22490.0,22490.0,62251.0,36.0,Private
+166124,College of the Holy Cross,68090.0,68090.0,100485.0,760.0,Private
+166391,Lasell University,28392.0,28392.0,64330.0,796.0,Private
+166452,Lesley University,35822.0,35822.0,57844.0,833.0,Private
+166513,University of Massachusetts-Lowell,17664.0,37460.0,77989.0,4515.0,Public
+166629,University of Massachusetts-Amherst,18487.0,41759.0,80486.0,7783.0,Public
+166638,University of Massachusetts-Boston,16558.0,39365.0,70597.0,4534.0,Public
+166656,Massachusetts College of Pharmacy and Health Sciences,42480.0,42480.0,103156.0,1693.0,Private
+166674,Massachusetts College of Art and Design,15860.0,44700.0,52923.0,627.0,Public
+166683,Massachusetts Institute of Technology,64730.0,64730.0,152553.0,658.0,Private
+166692,Massachusetts Maritime Academy,13340.0,26010.0,104098.0,517.0,Public
+166850,Merrimack College,55852.0,55852.0,74412.0,1070.0,Private
+166911,Montserrat College of Art,42520.0,42520.0,40733.0,198.0,Private
+166939,Mount Holyoke College,68054.0,68054.0,66117.0,490.0,Private
+167057,The New England Conservatory of Music,63410.0,63410.0,40481.0,84.0,Private
+167260,Nichols College,44950.0,44950.0,66716.0,689.0,Private
+167288,Massachusetts College of Liberal Arts,12748.0,21693.0,52507.0,694.0,Public
+167358,Northeastern University,69289.0,69289.0,99371.0,4309.0,Private
+167394,College of Our Lady of the Elms,44626.0,44626.0,64534.0,605.0,Private
+167598,Regis College,51420.0,51420.0,69534.0,497.0,Private
+167729,Salem State University,12708.0,20117.0,62762.0,2914.0,Public
+167783,Simmons University,48240.0,48240.0,79784.0,727.0,Private
+167835,Smith College,67448.0,67448.0,69936.0,650.0,Private
+167899,Springfield College,46700.0,46700.0,59623.0,1976.0,Private
+167987,University of Massachusetts-Dartmouth,16233.0,33782.0,68878.0,3113.0,Public
+167996,Stonehill College,59300.0,59300.0,84633.0,895.0,Private
+168005,Suffolk University,49556.0,49556.0,75345.0,2085.0,Private
+168148,Tufts University,73616.0,73616.0,89187.0,1002.0,Private
+168218,Wellesley College,70144.0,70144.0,90458.0,378.0,Private
+168227,Wentworth Institute of Technology,45460.0,45460.0,94995.0,1749.0,Private
+168254,Western New England University,49490.0,49490.0,81107.0,1336.0,Private
+168263,Westfield State University,12616.0,18696.0,63082.0,2245.0,Public
+168281,Wheaton College (Massachusetts),65700.0,65700.0,71967.0,474.0,Private
+168342,Williams College,72510.0,72510.0,95954.0,345.0,Private
+168421,Worcester Polytechnic Institute,63246.0,63246.0,113513.0,1184.0,Private
+168430,Worcester State University,12344.0,18424.0,65784.0,1954.0,Public
+168528,Adrian College,42764.0,42764.0,56860.0,878.0,Private
+168546,Albion College,58500.0,58500.0,64083.0,487.0,Private
+168591,Alma College,51523.0,51523.0,59874.0,623.0,Private
+168740,Andrews University,36454.0,36454.0,59582.0,568.0,Private
+168786,Aquinas College,41992.0,41992.0,53667.0,746.0,Private
+168847,Baker College,13200.0,13200.0,41297.0,21482.0,Private
+169080,Calvin University,40500.0,40500.0,60411.0,1164.0,Private
+169248,Central Michigan University,15420.0,15420.0,59879.0,7669.0,Public
+169327,Cleary University,27362.0,27362.0,64883.0,249.0,Private
+169363,Concordia University Ann Arbor,36260.0,36260.0,61992.0,2235.0,Private
+169442,College for Creative Studies,55460.0,55460.0,54082.0,564.0,Private
+169479,Davenport University,25562.0,25562.0,52260.0,4604.0,Private
+169716,University of Detroit Mercy,33604.0,33604.0,74106.0,1193.0,Private
+169798,Eastern Michigan University,17004.0,17004.0,55390.0,7098.0,Public
+169910,Ferris State University,15736.0,15736.0,60457.0,6258.0,Public
+169983,Kettering University,50650.0,50650.0,96136.0,510.0,Private
+170000,Grace Christian University,17565.0,17565.0,41951.0,354.0,Private
+170037,Cornerstone University,23400.0,23400.0,52119.0,1068.0,Private
+170082,Grand Valley State University,15872.0,22588.0,60120.0,8120.0,Public
+170091,Great Lakes Christian College,19920.0,19920.0,36738.0,122.0,Private
+170301,Hope College,43960.0,43960.0,65961.0,1097.0,Private
+170532,Kalamazoo College,63827.0,63827.0,66766.0,331.0,Private
+170639,Lake Superior State University,15506.0,15506.0,55573.0,1095.0,Public
+170675,Lawrence Technological University,45840.0,45840.0,78800.0,595.0,Private
+170806,Madonna University,29580.0,29580.0,60349.0,1115.0,Private
+170967,Rochester Christian University,30510.0,30510.0,50729.0,592.0,Private
+170976,University of Michigan-Ann Arbor,18346.0,63962.0,92832.0,5390.0,Public
+171100,Michigan State University,17256.0,44640.0,74168.0,9870.0,Public
+171128,Michigan Technological University,19982.0,44878.0,84681.0,1776.0,Public
+171137,University of Michigan-Dearborn,16240.0,34168.0,66897.0,2495.0,Public
+171146,University of Michigan-Flint,15354.0,29630.0,58635.0,2558.0,Public
+171456,Northern Michigan University,15012.0,20508.0,51936.0,3362.0,Public
+171492,Northwood University,35900.0,35900.0,68112.0,1907.0,Private
+171571,Oakland University,16176.0,22950.0,63565.0,5621.0,Public
+171599,The University of Olivet,35092.0,35092.0,54181.0,582.0,Private
+171881,Kuyper College,28750.0,28750.0,43326.0,134.0,Private
+172051,Saginaw Valley State University,13680.0,24000.0,55838.0,3511.0,Public
+172264,Siena Heights University,31814.0,31814.0,61544.0,1601.0,Private
+172334,Spring Arbor University,35530.0,35530.0,56715.0,1524.0,Private
+172644,Wayne State University,15862.0,33467.0,59525.0,6892.0,Public
+172699,Western Michigan University,15954.0,19908.0,57828.0,4248.0,Public
+172866,Academy College,19830.0,19830.0,55715.0,102.0,Private
+173045,Augsburg University,46840.0,46840.0,63332.0,1122.0,Private
+173124,Bemidji State University,10868.0,10868.0,58173.0,2216.0,Public
+173142,Bethany Lutheran College,32660.0,32660.0,50975.0,273.0,Private
+173160,Bethel University,26240.0,26240.0,69827.0,1467.0,Private
+173258,Carleton College,72069.0,72069.0,82742.0,304.0,Private
+173300,Concordia College at Moorhead,32480.0,32480.0,62622.0,944.0,Private
+173328,Concordia University-Saint Paul,26400.0,26400.0,65009.0,977.0,Private
+173452,Martin Luther College,18660.0,18660.0,47683.0,264.0,Private
+173647,Gustavus Adolphus College,58024.0,58024.0,67649.0,927.0,Private
+173665,Hamline University,51994.0,51994.0,64996.0,1134.0,Private
+173902,Macalester College,70862.0,70862.0,69951.0,412.0,Private
+173920,Minnesota State University-Mankato,10280.0,20400.0,61916.0,5355.0,Public
+174020,Metropolitan State University,10382.0,10382.0,66336.0,3804.0,Public
+174066,University of Minnesota-Twin Cities,18482.0,41368.0,74314.0,9376.0,Public
+174075,University of Minnesota-Crookston,13864.0,13864.0,64132.0,939.0,Public
+174127,Minneapolis College of Art and Design,47264.0,47264.0,50254.0,272.0,Private
+174154,Herzing University-Minneapolis,13820.0,13820.0,44255.0,5812.0,Private
+174233,University of Minnesota-Duluth,15200.0,20950.0,67944.0,3490.0,Public
+174251,University of Minnesota-Morris,15306.0,17600.0,55010.0,670.0,Public
+174358,Minnesota State University Moorhead,11056.0,11056.0,55234.0,2692.0,Public
+174437,North Central University,33180.0,33180.0,45958.0,581.0,Private
+174491,University of Northwestern-St Paul,38946.0,38946.0,56687.0,951.0,Private
+174525,Oak Hills Christian College,19960.0,19960.0,40204.0,84.0,Private
+174747,College of Saint Benedict,57698.0,57698.0,66967.0,667.0,Private
+174783,Saint Cloud State University,10858.0,10858.0,59509.0,4916.0,Public
+174792,Saint Johns University,57760.0,57760.0,79644.0,640.0,Private
+174817,Saint Mary's University of Minnesota,46660.0,46660.0,68708.0,908.0,Private
+174844,St Olaf College,62700.0,62700.0,68656.0,709.0,Private
+174862,Crown College,32670.0,32670.0,50003.0,523.0,Private
+174899,The College of Saint Scholastica,43050.0,43050.0,72044.0,1436.0,Private
+174914,University of St Thomas,56460.0,56460.0,82322.0,2262.0,Private
+175005,St Catherine University,53214.0,53214.0,64729.0,1603.0,Private
+175078,Southwest Minnesota State University,10918.0,10918.0,52551.0,1163.0,Public
+175272,Winona State University,11232.0,18401.0,63354.0,3394.0,Public
+175342,Alcorn State University,8785.0,8785.0,40721.0,1391.0,Public
+175421,Belhaven University,30400.0,30400.0,50101.0,1347.0,Private
+175430,Blue Mountain Christian University,21080.0,21080.0,42093.0,228.0,Private
+175616,Delta State University,8605.0,8605.0,44639.0,1223.0,Public
+175856,Jackson State University,9635.0,13635.0,42075.0,2586.0,Public
+175980,Millsaps College,45570.0,45570.0,65503.0,259.0,Private
+176017,University of Mississippi,10150.0,30310.0,59112.0,5492.0,Public
+176035,Mississippi University for Women,8747.0,8747.0,52685.0,1169.0,Public
+176044,Mississippi Valley State University,7822.0,7822.0,36621.0,944.0,Public
+176053,Mississippi Christian University,24600.0,24600.0,54122.0,1234.0,Private
+176080,Mississippi State University,10604.0,28736.0,54296.0,5639.0,Public
+176318,Rust College,13265.0,13265.0,35151.0,537.0,Private
+176372,University of Southern Mississippi,10394.0,12394.0,47355.0,5410.0,Public
+176406,Tougaloo College,12628.0,12628.0,41624.0,420.0,Private
+176479,William Carey University,15900.0,15900.0,46286.0,1156.0,Private
+176628,Avila University,41540.0,41540.0,59717.0,718.0,Private
+176664,Mission University,17900.0,17900.0,39622.0,164.0,Private
+176789,Calvary University,15054.0,15054.0,45535.0,113.0,Private
+176910,Central Christian College of the Bible,12200.0,12200.0,37446.0,157.0,Private
+176947,Central Methodist University-College of Liberal Arts and Sciences,29460.0,29460.0,53620.0,1626.0,Private
+176965,University of Central Missouri,10457.0,19367.0,52739.0,4086.0,Public
+177038,Cleveland University-Kansas City,14400.0,14400.0,55666.0,101.0,Private
+177065,Columbia College,27404.0,27404.0,48161.0,9511.0,Private
+177083,Conception Seminary College,27244.0,27244.0,54852.0,24.0,Private
+177117,Cottey College,29594.0,29594.0,46543.0,190.0,Private
+177144,Culver-Stockton College,32130.0,32130.0,52791.0,445.0,Private
+177214,Drury University,38260.0,38260.0,45136.0,1755.0,Private
+177339,Evangel University,30174.0,30174.0,47597.0,925.0,Private
+177542,Hannibal-LaGrange University,26880.0,26880.0,48798.0,553.0,Private
+177551,Harris-Stowe State University,7008.0,11640.0,39919.0,875.0,Public
+177746,Kansas City Art Institute,45674.0,45674.0,40314.0,347.0,Private
+177940,Lincoln University,10180.0,18470.0,41642.0,1323.0,Public
+177968,Lindenwood University,22794.0,22794.0,58321.0,3522.0,Private
+177986,Logan University,10800.0,10800.0,59488.0,134.0,Private
+178059,Maryville University of Saint Louis,27166.0,27166.0,67386.0,1149.0,Private
+178208,Midwestern Baptist Theological Seminary,10560.0,10560.0,47104.0,65.0,Private
+178244,Missouri Baptist University,36084.0,36084.0,49360.0,1024.0,Private
+178341,Missouri Southern State University,9240.0,17640.0,48193.0,2347.0,Public
+178369,Missouri Valley College,24200.0,24200.0,50364.0,805.0,Private
+178387,Missouri Western State University,11056.0,20926.0,47624.0,2342.0,Public
+178396,University of Missouri-Columbia,15548.0,37820.0,69958.0,8299.0,Public
+178402,University of Missouri-Kansas City,13216.0,31738.0,63110.0,3792.0,Public
+178411,Missouri University of Science and Technology,15746.0,34934.0,85917.0,1794.0,Public
+178420,University of Missouri-St Louis,14812.0,36876.0,59899.0,4071.0,Public
+178615,Truman State University,10220.0,19289.0,57751.0,1571.0,Public
+178624,Northwest Missouri State University,11037.0,18018.0,52028.0,2500.0,Public
+178679,Ozark Christian College,16480.0,16480.0,40203.0,319.0,Private
+178697,College of the Ozarks,24420.0,24420.0,47246.0,544.0,Private
+178721,Park University,18000.0,18000.0,62154.0,3789.0,Private
+178767,Stevens-The Institute of Business & Arts,14332.0,14332.0,34531.0,114.0,Private
+179043,Rockhurst University,46270.0,46270.0,73697.0,943.0,Private
+179159,Saint Louis University,57960.0,57960.0,75998.0,2705.0,Private
+179265,University of Health Sciences and Pharmacy in St. Louis,33189.0,33189.0,130161.0,434.0,Private
+179326,Southwest Baptist University,31500.0,31500.0,50155.0,1216.0,Private
+179548,Stephens College,29450.0,29450.0,46625.0,334.0,Private
+179557,Southeast Missouri State University,10194.0,10194.0,48748.0,3803.0,Public
+179566,Missouri State University-Springfield,10128.0,19760.0,52782.0,6103.0,Public
+179867,Washington University in St Louis,69594.0,69594.0,91497.0,901.0,Private
+179894,Webster University,32690.0,32690.0,56096.0,1498.0,Private
+179946,Westminster College,36200.0,36200.0,57881.0,332.0,Private
+179955,William Jewell College,21538.0,21538.0,63955.0,459.0,Private
+179964,William Woods University,31630.0,31630.0,48405.0,441.0,Private
+180106,Carroll College,43070.0,43070.0,66371.0,469.0,Private
+180179,Montana State University Billings,7689.0,23311.0,48199.0,1987.0,Public
+180258,University of Providence,31348.0,31348.0,51419.0,416.0,Private
+180416,Montana Technological University,8770.0,26570.0,59491.0,995.0,Public
+180461,Montana State University,8948.0,33783.0,59536.0,4237.0,Public
+180489,The University of Montana,9188.0,34312.0,48823.0,4309.0,Public
+180522,Montana State University-Northern,7496.0,22397.0,52907.0,628.0,Public
+180595,Rocky Mountain College,37006.0,37006.0,54124.0,441.0,Private
+180692,The University of Montana-Western,7131.0,20596.0,47501.0,643.0,Public
+180814,Bellevue University,10053.0,10053.0,65909.0,3495.0,Private
+180832,Clarkson College,16584.0,16584.0,70928.0,439.0,Private
+180878,Bryan College of Health Sciences,21420.0,21420.0,73322.0,255.0,Private
+180948,Chadron State College,8542.0,8542.0,51365.0,930.0,Public
+180984,Concordia University-Nebraska,42400.0,42400.0,53522.0,499.0,Private
+181002,Creighton University,50960.0,50960.0,80642.0,1308.0,Private
+181020,Doane University,45246.0,45246.0,57009.0,894.0,Private
+181127,Hastings College,39280.0,39280.0,56094.0,446.0,Private
+181215,University of Nebraska at Kearney,8922.0,16134.0,55176.0,2052.0,Public
+181297,Nebraska Methodist College of Nursing & Allied Health,18071.0,18071.0,70914.0,456.0,Private
+181330,Midland University,43850.0,43850.0,57914.0,656.0,Private
+181394,University of Nebraska at Omaha,9232.0,25342.0,59749.0,4235.0,Public
+181446,Nebraska Wesleyan University,45342.0,45342.0,62637.0,714.0,Private
+181464,University of Nebraska-Lincoln,11100.0,30330.0,61819.0,5780.0,Public
+181534,Peru State College,8640.0,8640.0,47905.0,700.0,Public
+181604,College of Saint Mary,27294.0,27294.0,64178.0,366.0,Private
+181738,Union Adventist University,30296.0,30296.0,58875.0,291.0,Private
+181783,Wayne State College,8420.0,8420.0,50482.0,1354.0,Public
+181853,York University,23800.0,23800.0,50139.0,224.0,Private
+182281,University of Nevada-Las Vegas,10279.0,28192.0,62536.0,6143.0,Public
+182290,University of Nevada-Reno,10300.0,28932.0,67303.0,4413.0,Public
+182634,Colby-Sawyer College,19600.0,19600.0,61214.0,667.0,Private
+182670,Dartmouth College,71525.0,71525.0,111162.0,565.0,Private
+182795,Franklin Pierce University,48095.0,48095.0,64588.0,917.0,Private
+182980,New England College,43484.0,43484.0,47863.0,1024.0,Private
+183026,Southern New Hampshire University,18410.0,18410.0,56870.0,10922.0,Private
+183044,University of New Hampshire-Main Campus,19682.0,40844.0,71477.0,6172.0,Public
+183062,Keene State College,15154.0,27512.0,62326.0,2146.0,Public
+183071,University of New Hampshire at Manchester,16612.0,37774.0,71477.0,6172.0,Public
+183080,Plymouth State University,15068.0,26218.0,61199.0,1913.0,Public
+183211,Rivier University,41288.0,41288.0,72105.0,601.0,Private
+183239,Saint Anselm College,50580.0,50580.0,83058.0,805.0,Private
+183257,University of New Hampshire College of Professional Studies Online,8112.0,8112.0,71477.0,6172.0,Public
+183275,Thomas More College of Liberal Arts,30400.0,30400.0,41534.0,35.0,Private
+183789,Berkeley College-Woodland Park,30880.0,30880.0,46839.0,2762.0,Private
+183822,Bloomfield College of Montclair State University,16854.0,27570.0,63846.0,6596.0,Public
+183910,Caldwell University,42470.0,42470.0,57671.0,650.0,Private
+183974,Centenary University,39632.0,39632.0,60078.0,736.0,Private
+184348,Drew University,49100.0,49100.0,66065.0,505.0,Private
+184603,Fairleigh Dickinson University-Metropolitan Campus,39454.0,39454.0,62652.0,2738.0,Private
+184612,Felician University,40840.0,40840.0,64432.0,804.0,Private
+184694,Fairleigh Dickinson University-Florham Campus,39454.0,39454.0,62652.0,2738.0,Private
+184773,Georgian Court University,37902.0,37902.0,56384.0,670.0,Private
+184782,Rowan University,17428.0,28252.0,65776.0,4072.0,Public
+185129,New Jersey City University,15604.0,15604.0,59538.0,2772.0,Public
+185262,Kean University,15300.0,24017.0,62318.0,4871.0,Public
+185572,Monmouth University,48299.0,48299.0,72737.0,1846.0,Private
+185590,Montclair State University,16854.0,27570.0,63846.0,6596.0,Public
+185828,New Jersey Institute of Technology,21162.0,39912.0,90769.0,2382.0,Public
+186131,Princeton University,65510.0,65510.0,133523.0,438.0,Private
+186186,Rabbinical College of America,10650.0,10650.0,34281.0,93.0,Private
+186201,Ramapo College of New Jersey,17615.0,29093.0,71282.0,1928.0,Public
+186283,Rider University,43240.0,43240.0,66376.0,1766.0,Private
+186371,Rutgers University-Camden,18651.0,39476.0,80490.0,15130.0,Public
+186380,Rutgers University-New Brunswick,18824.0,39649.0,80490.0,15130.0,Public
+186399,Rutgers University-Newark,18112.0,38937.0,80490.0,15130.0,Public
+186432,Saint Peter's University,43170.0,43170.0,63525.0,861.0,Private
+186584,Seton Hall University,55040.0,55040.0,80035.0,2036.0,Private
+186618,Saint Elizabeth University,37763.0,37763.0,55167.0,322.0,Private
+186867,Stevens Institute of Technology,65606.0,65606.0,118358.0,856.0,Private
+186876,Stockton University,16754.0,25258.0,63648.0,3330.0,Public
+187046,Thomas Edison State University,7044.0,9122.0,75164.0,2856.0,Public
+187134,The College of New Jersey,20378.0,26742.0,79651.0,1962.0,Public
+187444,William Paterson University of New Jersey,16748.0,27014.0,61869.0,4084.0,Public
+187648,Eastern New Mexico University-Main Campus,7194.0,9174.0,44198.0,2619.0,Public
+187745,Institute of American Indian and Alaska Native Culture and Arts Development,6090.0,6090.0,26385.0,89.0,Public
+187897,New Mexico Highlands University,7281.0,12201.0,48104.0,1150.0,Public
+187967,New Mexico Institute of Mining and Technology,10112.0,31683.0,71723.0,431.0,Public
+187985,University of New Mexico-Main Campus,10383.0,33532.0,50072.0,8332.0,Public
+188030,New Mexico State University-Main Campus,8226.0,25350.0,43922.0,7578.0,Public
+188182,University of the Southwest,17582.0,17582.0,47669.0,237.0,Private
+188304,Western New Mexico University,7891.0,14342.0,41452.0,916.0,Public
+188429,Adelphi University,52050.0,52050.0,80969.0,1926.0,Private
+188526,Albany College of Pharmacy and Health Sciences,42675.0,42675.0,128214.0,565.0,Private
+188641,Alfred University,43570.0,43570.0,57978.0,916.0,Private
+189088,Bard College,69672.0,69672.0,54555.0,598.0,Private
+189097,Barnard College,73033.0,73033.0,98280.0,395.0,Private
+189228,Berkeley College-New York,30880.0,30880.0,51098.0,2656.0,Private
+189413,Boricua College,13525.0,13525.0,39682.0,880.0,Private
+189565,Bryant & Stratton College-Syracuse North,19457.0,19457.0,37469.0,12796.0,Private
+189705,Canisius University,35880.0,35880.0,63820.0,1269.0,Private
+189857,Central Yeshiva Tomchei Tmimim Lubavitz,8000.0,8000.0,32205.0,317.0,Private
+190044,Clarkson University,61148.0,61148.0,92494.0,1357.0,Private
+190099,Colgate University,73646.0,73646.0,96328.0,392.0,Private
+190114,Metropolitan College of New York,20188.0,20188.0,48298.0,652.0,Private
+190150,Columbia University in the City of New York,74180.0,74180.0,109430.0,1758.0,Private
+190372,The Cooper Union for the Advancement of Science and Art,46820.0,46820.0,76895.0,113.0,Private
+190415,Cornell University,72270.0,72270.0,113531.0,2928.0,Private
+190512,CUNY Bernard M Baruch College,7462.0,15412.0,83742.0,4356.0,Public
+190549,CUNY Brooklyn College,7450.0,15400.0,66519.0,4436.0,Public
+190558,College of Staten Island CUNY,7490.0,15440.0,59992.0,4360.0,Public
+190567,CUNY City College,7340.0,15290.0,69594.0,4036.0,Public
+190576,CUNY Graduate School and University Center,7235.0,15185.0,69504.0,359.0,Public
+190594,CUNY Hunter College,7382.0,15332.0,70502.0,4767.0,Public
+190600,CUNY John Jay College of Criminal Justice,7470.0,15420.0,65870.0,4802.0,Public
+190637,CUNY Lehman College,7410.0,15360.0,65181.0,3469.0,Public
+190646,CUNY Medgar Evers College,7352.0,15302.0,49242.0,2918.0,Public
+190655,CUNY New York City College of Technology,7332.0,15282.0,57019.0,7084.0,Public
+190664,CUNY Queens College,7538.0,15488.0,68324.0,4411.0,Public
+190691,CUNY York College,7358.0,15308.0,62351.0,2911.0,Public
+190716,D'Youville  University,35980.0,35980.0,74104.0,941.0,Private
+190725,Daemen University,37994.0,37994.0,68139.0,1110.0,Private
+190761,Dominican University New York,35380.0,35380.0,66205.0,764.0,Private
+190983,Elmira College,39760.0,39760.0,63320.0,605.0,Private
+191205,Five Towns College,31100.0,31100.0,46311.0,384.0,Private
+191241,Fordham University,67897.0,67897.0,92809.0,2431.0,Private
+191515,Hamilton College,72690.0,72690.0,84956.0,343.0,Private
+191533,Hartwick College,22000.0,22000.0,66557.0,661.0,Private
+191621,Hilbert College,35530.0,35530.0,55931.0,555.0,Private
+191630,Hobart William Smith Colleges,66748.0,66748.0,80471.0,630.0,Private
+191649,Hofstra University,59960.0,59960.0,76540.0,2535.0,Private
+191676,Houghton University,20616.0,20616.0,52730.0,452.0,Private
+191931,Iona University,48680.0,48680.0,76994.0,1155.0,Private
+191968,Ithaca College,56752.0,56752.0,70258.0,2037.0,Private
+192040,Jewish Theological Seminary of America,76040.0,76040.0,84604.0,21.0,Private
+192110,The Juilliard School,58846.0,58846.0,43638.0,120.0,Private
+192165,Kehilath Yakov Rabbinical Seminary,16350.0,16350.0,28230.0,37.0,Private
+192192,Keuka College,41336.0,41336.0,62019.0,1104.0,Private
+192271,LIM College,34676.0,34676.0,69579.0,689.0,Private
+192323,Le Moyne College,41946.0,41946.0,67320.0,1163.0,Private
+192448,Long Island University,43276.0,43276.0,65934.0,4590.0,Private
+192624,Machzikei Hadath Rabbinical College,13500.0,13500.0,27810.0,52.0,Private
+192703,Manhattan University,55900.0,55900.0,92904.0,1304.0,Private
+192712,Manhattan School of Music,59500.0,59500.0,50584.0,63.0,Private
+192749,Manhattanville University,46340.0,46340.0,64812.0,710.0,Private
+192819,Marist University,49900.0,49900.0,84453.0,1826.0,Private
+192864,Marymount Manhattan College,43546.0,43546.0,60622.0,713.0,Private
+193016,Mercy University,23650.0,23650.0,57532.0,3578.0,Private
+193052,Mesivta Torah Vodaath Rabbinical Seminary,15950.0,15950.0,25618.0,63.0,Private
+193292,Molloy University,41380.0,41380.0,86212.0,1173.0,Private
+193353,Mount Saint Mary College,45630.0,45630.0,75320.0,1013.0,Private
+193399,University of Mount Saint Vincent,46420.0,46420.0,70998.0,768.0,Private
+193584,Nazareth University,44060.0,44060.0,61794.0,942.0,Private
+193654,The New School,61558.0,61558.0,64471.0,1601.0,Private
+193900,New York University,65622.0,65622.0,90957.0,5710.0,Private
+193973,Niagara University,40405.0,40405.0,60491.0,1235.0,Private
+194091,New York Institute of Technology,48600.0,48600.0,77833.0,1730.0,Private
+194310,Pace University,54875.0,54875.0,77411.0,3136.0,Private
+194392,Paul Smiths College of Arts and Science,34000.0,34000.0,52012.0,614.0,Private
+194569,Davis College,18100.0,18100.0,38696.0,135.0,Private
+194578,Pratt Institute-Main,64238.0,64238.0,63115.0,857.0,Private
+194666,Rabbinical College Bobover Yeshiva Bnei Zion,10000.0,10000.0,33293.0,109.0,Private
+194763,Rabbinical Seminary of America,10500.0,10500.0,94782.0,21.0,Private
+194824,Rensselaer Polytechnic Institute,66032.0,66032.0,113011.0,1586.0,Private
+194958,Roberts Wesleyan University,39712.0,39712.0,64154.0,733.0,Private
+195003,Rochester Institute of Technology,61804.0,61804.0,84700.0,4323.0,Private
+195030,University of Rochester,70306.0,70306.0,88358.0,1444.0,Private
+195128,Russell Sage College,39812.0,39812.0,61760.0,995.0,Private
+195164,St Bonaventure University,43505.0,43505.0,66448.0,806.0,Private
+195173,St. Francis College,29628.0,29628.0,66961.0,973.0,Private
+195216,St Lawrence University,67890.0,67890.0,74500.0,631.0,Private
+195243,St. Thomas Aquinas College,41100.0,41100.0,65466.0,534.0,Private
+195304,Sarah Lawrence College,70198.0,70198.0,55075.0,333.0,Private
+195438,Sh'or Yoshuv Rabbinical College,11700.0,11700.0,56426.0,37.0,Private
+195474,Siena University,48895.0,48895.0,80879.0,1278.0,Private
+195526,Skidmore College,70580.0,70580.0,79268.0,430.0,Private
+195544,St. Joseph's University-New York,38520.0,38520.0,69712.0,1784.0,Private
+195720,St. John Fisher University,43174.0,43174.0,76156.0,1421.0,Private
+195809,St. John's University-New York,55640.0,55640.0,77281.0,4388.0,Private
+196015,SUNY College of Technology at Canton,8742.0,13572.0,51652.0,2143.0,Public
+196033,SUNY College of Agriculture and Technology at Cobleskill,8768.0,19098.0,49814.0,1470.0,Public
+196042,Farmingdale State College,8626.0,19116.0,75278.0,2688.0,Public
+196060,University at Albany,10881.0,32091.0,72751.0,5285.0,Public
+196079,Binghamton University,10567.0,32467.0,89136.0,3857.0,Public
+196088,University at Buffalo,11036.0,32466.0,75679.0,6550.0,Public
+196097,Stony Brook University,10931.0,34911.0,83232.0,4786.0,Public
+196103,SUNY College of Environmental Science and Forestry,9303.0,23253.0,64530.0,673.0,Public
+196112,SUNY Polytechnic Institute,8625.0,21215.0,73261.0,838.0,Public
+196121,SUNY Brockport,8752.0,16242.0,60028.0,3218.0,Public
+196130,SUNY Buffalo State University,8533.0,20273.0,55028.0,4329.0,Public
+196149,State University of New York at Cortland,8874.0,18984.0,67781.0,2815.0,Public
+196158,SUNY at Fredonia,8835.0,15905.0,56849.0,2336.0,Public
+196167,SUNY College at Geneseo,9035.0,19935.0,70405.0,1677.0,Public
+196176,State University of New York at New Paltz,8572.0,19172.0,65774.0,2397.0,Public
+196185,SUNY Oneonta,8831.0,19781.0,66840.0,2324.0,Public
+196194,State University of New York at Oswego,8825.0,19255.0,63727.0,3084.0,Public
+196200,SUNY College at Potsdam,8768.0,18678.0,53699.0,1777.0,Public
+196219,SUNY at Purchase College,9016.0,19616.0,53737.0,1498.0,Public
+196237,SUNY Old Westbury,8422.0,19372.0,65583.0,1653.0,Public
+196246,State University of New York at Plattsburgh,9035.0,18945.0,61867.0,2431.0,Public
+196264,Empire State University,7648.0,17558.0,59509.0,4957.0,Public
+196291,SUNY Maritime College,8571.0,19471.0,100966.0,509.0,Public
+196413,Syracuse University,68429.0,68429.0,85054.0,4274.0,Private
+196431,Talmudical Seminary Oholei Torah,8750.0,8750.0,29313.0,201.0,Private
+196592,Touro University,23100.0,23100.0,57553.0,2895.0,Private
+196866,Union College,71676.0,71676.0,95269.0,536.0,Private
+197018,United Talmudical Seminary,15000.0,15000.0,23315.0,708.0,Private
+197027,United States Merchant Marine Academy,909.0,909.0,103283.0,81.0,Public
+197045,Utica University,28480.0,28480.0,69651.0,1547.0,Private
+197133,Vassar College,74265.0,74265.0,75532.0,520.0,Private
+197142,Villa Maria College,28670.0,28670.0,38993.0,254.0,Private
+197151,School of Visual Arts,53400.0,53400.0,52320.0,1006.0,Private
+197197,Wagner College,54796.0,54796.0,84179.0,675.0,Private
+197285,The College of Westchester,25191.0,25191.0,46746.0,820.0,Private
+197601,Yeshiva Karlin Stolin,14000.0,14000.0,33847.0,56.0,Private
+197674,Yeshiva of Nitra Rabbinical College,14000.0,14000.0,32062.0,102.0,Private
+197708,Yeshiva University,53150.0,53150.0,77098.0,568.0,Private
+197735,Yeshivath Viznitz,14000.0,14000.0,20032.0,146.0,Private
+197869,Appalachian State University,7642.0,25932.0,57488.0,4897.0,Public
+197911,Barton College,39050.0,39050.0,52876.0,522.0,Private
+197984,Belmont Abbey College,21500.0,21500.0,53850.0,781.0,Private
+197993,Bennett College,19140.0,19140.0,43355.0,289.0,Private
+198066,Brevard College,33200.0,33200.0,49182.0,326.0,Private
+198136,Campbell University,42830.0,42830.0,59026.0,1250.0,Private
+198215,Catawba College,35500.0,35500.0,52260.0,516.0,Private
+198303,Chowan University,28110.0,28110.0,41371.0,904.0,Private
+198385,Davidson College,69315.0,69315.0,89297.0,240.0,Private
+198419,Duke University,72795.0,72795.0,113937.0,1231.0,Private
+198464,East Carolina University,7438.0,23715.0,60387.0,7060.0,Public
+198507,Elizabeth City State University,6625.0,10625.0,44614.0,966.0,Public
+198516,Elon University,48723.0,48723.0,82524.0,1144.0,Private
+198543,Fayetteville State University,4412.0,8412.0,47125.0,2094.0,Public
+198561,Gardner-Webb University,36350.0,36350.0,53543.0,1322.0,Private
+198598,Greensboro College,21660.0,21660.0,50121.0,474.0,Private
+198613,Guilford College,42320.0,42320.0,52803.0,914.0,Private
+198677,Heritage Bible College,8758.0,8758.0,41471.0,33.0,Private
+198695,High Point University,49146.0,49146.0,73547.0,1214.0,Private
+198756,Johnson C Smith University,22370.0,22370.0,44849.0,865.0,Private
+198808,Lees-McRae College,34770.0,34770.0,52058.0,496.0,Private
+198835,Lenoir-Rhyne University,33000.0,33000.0,54752.0,598.0,Private
+198862,Livingstone College,18296.0,18296.0,38502.0,646.0,Private
+198899,Mars Hill University,38868.0,38868.0,48185.0,829.0,Private
+198950,Meredith College,47448.0,47448.0,54417.0,631.0,Private
+198969,Methodist University,43174.0,43174.0,54558.0,930.0,Private
+199032,Montreat College,37544.0,37544.0,53114.0,316.0,Private
+199069,University of Mount Olive,29100.0,29100.0,54851.0,1670.0,Private
+199102,North Carolina A & T State University,6813.0,20873.0,50279.0,3607.0,Public
+199111,University of North Carolina Asheville,7501.0,24849.0,50562.0,1172.0,Public
+199120,University of North Carolina at Chapel Hill,9095.0,45228.0,81094.0,3934.0,Public
+199139,University of North Carolina at Charlotte,7317.0,23523.0,63486.0,8513.0,Public
+199148,University of North Carolina at Greensboro,7731.0,24705.0,53402.0,5534.0,Public
+199157,North Carolina Central University,6733.0,19769.0,46956.0,2870.0,Public
+199184,University of North Carolina School of the Arts,9611.0,27345.0,46097.0,269.0,Public
+199193,North Carolina State University at Raleigh,8815.0,33780.0,77810.0,6300.0,Public
+199209,North Carolina Wesleyan University,37856.0,37856.0,49264.0,833.0,Private
+199218,University of North Carolina Wilmington,7266.0,25420.0,61019.0,4265.0,Public
+199272,William Peace University,35180.0,35180.0,47869.0,479.0,Private
+199281,University of North Carolina at Pembroke,3611.0,7611.0,48029.0,2254.0,Public
+199306,Pfeiffer University,38430.0,38430.0,54743.0,522.0,Private
+199412,Queens University of Charlotte,48445.0,48445.0,58736.0,785.0,Private
+199458,Mid-Atlantic Christian University,18320.0,18320.0,43121.0,97.0,Private
+199582,Saint Augustine's University,16896.0,16896.0,41117.0,859.0,Private
+199607,Salem College,35200.0,35200.0,50734.0,441.0,Private
+199643,Shaw University,19278.0,19278.0,38822.0,1134.0,Private
+199847,Wake Forest University,70332.0,70332.0,104443.0,827.0,Private
+199865,Warren Wilson College,26540.0,26540.0,39685.0,296.0,Private
+199962,Wingate University,41686.0,41686.0,57646.0,822.0,Private
+199971,Carolina Christian College,9970.0,9970.0,33125.0,19.0,Private
+199999,Winston-Salem State University,6098.0,16754.0,52558.0,2017.0,Public
+200004,Western Carolina University,4685.0,8685.0,53764.0,3298.0,Public
+200059,Dickinson State University,9418.0,11608.0,55221.0,585.0,Public
+200156,University of Jamestown,25490.0,25490.0,61350.0,402.0,Private
+200217,University of Mary,23650.0,23650.0,62839.0,1003.0,Private
+200226,Mayville State University,8337.0,11775.0,50306.0,425.0,Public
+200253,Minot State University,9192.0,9192.0,56245.0,965.0,Public
+200280,University of North Dakota,11645.0,16541.0,67456.0,4142.0,Public
+200332,North Dakota State University-Main Campus,11738.0,16672.0,65925.0,4440.0,Public
+200484,Trinity Bible College and Graduate School,19700.0,19700.0,38990.0,121.0,Private
+200572,Valley City State University,9009.0,14247.0,53886.0,488.0,Public
+200800,University of Akron Main Campus,13530.0,21210.0,51221.0,9268.0,Public
+200846,University of Akron Wayne College,7955.0,15635.0,51221.0,9268.0,Public
+201061,Art Academy of Cincinnati,41825.0,41825.0,38613.0,96.0,Private
+201104,Ashland University,33220.0,33220.0,56321.0,1402.0,Private
+201195,Baldwin Wallace University,41386.0,41386.0,59100.0,1298.0,Private
+201371,Bluffton University,38690.0,38690.0,53346.0,532.0,Private
+201441,Bowling Green State University-Main Campus,14892.0,22880.0,52269.0,7262.0,Public
+201548,Capital University,44304.0,44304.0,58937.0,1211.0,Private
+201645,Case Western Reserve University,69270.0,69270.0,89865.0,1064.0,Private
+201654,Cedarville University,38258.0,38258.0,65805.0,1016.0,Private
+201690,Central State University,8300.0,11300.0,36832.0,1131.0,Public
+201821,The Christ College of Nursing and Health Sciences,17318.0,17318.0,73495.0,327.0,Private
+201885,University of Cincinnati-Main Campus,14394.0,29728.0,60832.0,11656.0,Public
+201964,Ohio Christian University,25760.0,25760.0,39861.0,2025.0,Private
+202046,Cleveland Institute of Art,50575.0,50575.0,42757.0,225.0,Private
+202073,Cleveland Institute of Music,55510.0,55510.0,27260.0,58.0,Private
+202134,Cleveland State University,13262.0,18946.0,56979.0,5231.0,Public
+202170,Columbus College of Art & Design,42200.0,42200.0,47378.0,517.0,Private
+202480,University of Dayton,50610.0,50610.0,83775.0,2345.0,Private
+202514,Defiance College,29320.0,29320.0,50327.0,546.0,Private
+202523,Denison University,71000.0,71000.0,73151.0,527.0,Private
+202763,The University of Findlay,41400.0,41400.0,63283.0,1168.0,Private
+202806,Franklin University,9552.0,9552.0,57435.0,4080.0,Private
+203085,Heidelberg University,35233.0,35233.0,56874.0,608.0,Private
+203128,Hiram College,30720.0,30720.0,57745.0,592.0,Private
+203368,John Carroll University,51960.0,51960.0,74509.0,1105.0,Private
+203517,Kent State University at Kent,13628.0,23791.0,51178.0,14205.0,Public
+203535,Kenyon College,72220.0,72220.0,65780.0,229.0,Private
+203544,Kettering College,16800.0,16800.0,68877.0,431.0,Private
+203580,Lake Erie College,38700.0,38700.0,54578.0,444.0,Private
+203757,Lourdes University,29640.0,29640.0,50079.0,953.0,Private
+203775,Malone University,38240.0,38240.0,54032.0,906.0,Private
+203845,Marietta College,40842.0,40842.0,65386.0,621.0,Private
+203960,Mercy College of Ohio,19702.0,19702.0,70306.0,626.0,Private
+204006,Miami University-Hamilton,7709.0,20175.0,63814.0,6239.0,Public
+204015,Miami University-Middletown,7709.0,20175.0,63814.0,6239.0,Public
+204024,Miami University-Oxford,18520.0,42042.0,63814.0,6239.0,Public
+204176,Mount Carmel College of Nursing,28500.0,28500.0,77859.0,418.0,Private
+204185,University of Mount Union,37700.0,37700.0,64519.0,986.0,Private
+204194,Mount Vernon Nazarene University,38274.0,38274.0,52001.0,880.0,Private
+204200,Mount St. Joseph University,39650.0,39650.0,57689.0,682.0,Private
+204264,Muskingum University,33579.0,33579.0,50990.0,780.0,Private
+204501,Oberlin College,69482.0,69482.0,60877.0,474.0,Private
+204617,Ohio Dominican University,36422.0,36422.0,54622.0,887.0,Private
+204635,Ohio Northern University,41670.0,41670.0,82743.0,1035.0,Private
+204671,Ohio State University-Lima Campus,9772.0,38554.0,67080.0,15958.0,Public
+204796,Ohio State University-Main Campus,13641.0,42423.0,67080.0,15958.0,Public
+204802,Ohio University-Eastern Campus,6552.0,9788.0,61938.0,12095.0,Public
+204848,Ohio University-Lancaster Campus,6552.0,9788.0,61938.0,12095.0,Public
+204857,Ohio University-Main Campus,14582.0,25796.0,61938.0,12095.0,Public
+204909,Ohio Wesleyan University,54953.0,54953.0,61905.0,579.0,Private
+204936,Otterbein University,36598.0,36598.0,59196.0,1058.0,Private
+205027,Pontifical College Josephinum,31105.0,31105.0,58369.0,23.0,Private
+205443,Shawnee State University,10894.0,17808.0,43200.0,2223.0,Public
+205957,Franciscan University of Steubenville,35900.0,35900.0,53660.0,763.0,Private
+206048,Tiffin University,36500.0,36500.0,37551.0,4376.0,Private
+206084,University of Toledo,13122.0,22482.0,55537.0,6796.0,Public
+206154,Tri-State Bible College,9100.0,9100.0,25664.0,18.0,Private
+206349,Ursuline College,39780.0,39780.0,62042.0,377.0,Private
+206437,Walsh University,37115.0,37115.0,62879.0,1053.0,Private
+206491,Wilberforce University,16632.0,16632.0,41874.0,281.0,Private
+206507,Wilmington College,33104.0,33104.0,54378.0,639.0,Private
+206525,Wittenberg University,47064.0,47064.0,60660.0,730.0,Private
+206589,The College of Wooster,64210.0,64210.0,62339.0,575.0,Private
+206604,Wright State University-Main Campus,12268.0,22452.0,53497.0,5867.0,Public
+206613,Wright State University-Lake Campus,8230.0,18414.0,53497.0,5867.0,Public
+206622,Xavier University,52680.0,52680.0,69118.0,1509.0,Private
+206695,Youngstown State University,11444.0,11804.0,46691.0,4741.0,Public
+206835,Oklahoma Wesleyan University,35260.0,35260.0,66267.0,650.0,Private
+206862,Southern Nazarene University,32750.0,32750.0,59257.0,963.0,Private
+206914,Cameron University,7095.0,16515.0,42927.0,2177.0,Public
+206941,University of Central Oklahoma,9043.0,19930.0,51263.0,5221.0,Public
+207041,East Central University,8332.0,18442.0,47782.0,1513.0,Public
+207157,Randall University,18990.0,18990.0,45886.0,116.0,Private
+207263,Northeastern State University,8041.0,17708.0,48728.0,3104.0,Public
+207306,Northwestern Oklahoma State University,6516.0,12210.0,49123.0,976.0,Public
+207324,Oklahoma Christian University,28200.0,28200.0,55959.0,688.0,Private
+207351,Oklahoma Panhandle State University,8090.0,8673.0,48353.0,691.0,Public
+207388,Oklahoma State University-Main Campus,10444.0,25964.0,60713.0,6544.0,Public
+207403,Oklahoma Baptist University,37330.0,37330.0,50249.0,758.0,Private
+207458,Oklahoma City University,35648.0,35648.0,62267.0,650.0,Private
+207500,University of Oklahoma-Norman Campus,10181.0,28301.0,66905.0,6147.0,Public
+207582,Oral Roberts University,37350.0,37350.0,52658.0,1044.0,Private
+207661,Rogers State University,7750.0,16410.0,45841.0,1954.0,Public
+207722,University of Science and Arts of Oklahoma,9000.0,20190.0,44726.0,405.0,Public
+207847,Southeastern Oklahoma State University,7800.0,17340.0,48391.0,1551.0,Public
+207856,Southwestern Christian University,22500.0,22500.0,40962.0,453.0,Private
+207865,Southwestern Oklahoma State University,8683.0,8713.0,53203.0,1823.0,Public
+207971,University of Tulsa,52566.0,52566.0,65590.0,595.0,Private
+208646,Eastern Oregon University,11634.0,25854.0,53987.0,1670.0,Public
+208725,New Hope Christian College-Eugene,17620.0,17620.0,43617.0,185.0,Private
+208822,George Fox University,44430.0,44430.0,62873.0,946.0,Private
+209056,Lewis & Clark College,68048.0,68048.0,64090.0,546.0,Private
+209065,Linfield University,52650.0,52650.0,81101.0,1154.0,Private
+209409,Bushnell University,36950.0,36950.0,58808.0,254.0,Private
+209506,Oregon Institute of Technology,13760.0,38653.0,78398.0,1412.0,Public
+209542,Oregon State University,15117.0,40077.0,67894.0,7673.0,Public
+209551,University of Oregon,16755.0,46077.0,66990.0,5484.0,Public
+209612,Pacific University,58348.0,58348.0,67497.0,771.0,Private
+209807,Portland State University,12315.0,32565.0,62447.0,8017.0,Public
+209825,University of Portland,60100.0,60100.0,85634.0,1064.0,Private
+209922,Reed College,71770.0,71770.0,64977.0,214.0,Private
+210146,Southern Oregon University,13298.0,33314.0,54657.0,1854.0,Public
+210304,Warner Pacific University,23500.0,23500.0,59212.0,990.0,Private
+210331,Corban University,39166.0,39166.0,53254.0,475.0,Private
+210401,Willamette University,54224.0,54224.0,62275.0,757.0,Private
+210429,Western Oregon University,12087.0,32787.0,56475.0,2290.0,Public
+210492,Bryn Athyn College of the New Church,30363.0,30363.0,54575.0,94.0,Private
+210571,Albright College,31025.0,31025.0,63312.0,1109.0,Private
+210669,Allegheny College,58160.0,58160.0,68228.0,741.0,Private
+210739,DeSales University,48300.0,48300.0,69129.0,1052.0,Private
+210775,Alvernia University,47550.0,47550.0,60651.0,1066.0,Private
+211088,Arcadia University,50940.0,50940.0,62618.0,1108.0,Private
+211273,Bryn Mawr College,69220.0,69220.0,80291.0,314.0,Private
+211291,Bucknell University,70576.0,70576.0,109954.0,717.0,Private
+211431,Carlow University,37132.0,37132.0,56397.0,698.0,Private
+211440,Carnegie Mellon University,68776.0,68776.0,125257.0,1125.0,Private
+211468,Cedar Crest College,47714.0,47714.0,61250.0,603.0,Private
+211556,Chatham University,45986.0,45986.0,61561.0,329.0,Private
+211583,Chestnut Hill College,40240.0,40240.0,59414.0,801.0,Private
+211608,Cheyney University of Pennsylvania,11200.0,19452.0,43275.0,582.0,Public
+211981,Delaware Valley University,46190.0,46190.0,57451.0,840.0,Private
+212009,Dickinson College,68580.0,68580.0,83426.0,478.0,Private
+212054,Drexel University,64212.0,64212.0,92338.0,5283.0,Private
+212106,Duquesne University,51068.0,51068.0,81698.0,2270.0,Private
+212115,East Stroudsburg University of Pennsylvania,11692.0,20230.0,59893.0,2851.0,Public
+212133,Eastern University,40116.0,40116.0,54281.0,1359.0,Private
+212197,Elizabethtown College,39370.0,39370.0,66572.0,913.0,Private
+212577,Franklin and Marshall College,73210.0,73210.0,81484.0,477.0,Private
+212601,Gannon University,42641.0,42641.0,64498.0,1190.0,Private
+212656,Geneva College,34480.0,34480.0,54195.0,708.0,Private
+212674,Gettysburg College,68970.0,68970.0,80119.0,703.0,Private
+212832,Gwynedd Mercy University,41960.0,41960.0,74134.0,978.0,Private
+212911,Haverford College,73871.0,73871.0,76397.0,169.0,Private
+212984,Holy Family University,36388.0,36388.0,70924.0,844.0,Private
+213011,Immaculata University,30170.0,30170.0,74080.0,836.0,Private
+213020,Indiana University of Pennsylvania,11724.0,16804.0,57182.0,5653.0,Public
+213251,Juniata College,60600.0,60600.0,65666.0,462.0,Private
+213303,Keystone College,18670.0,18670.0,46892.0,817.0,Private
+213321,King's College,45100.0,45100.0,66035.0,989.0,Private
+213349,Kutztown University of Pennsylvania,11819.0,16665.0,57647.0,4081.0,Public
+213358,La Roche University,35684.0,35684.0,57999.0,632.0,Private
+213367,La Salle University,40000.0,40000.0,71235.0,1901.0,Private
+213385,Lafayette College,67606.0,67606.0,102336.0,504.0,Private
+213400,Lancaster Bible College,30690.0,30690.0,49033.0,636.0,Private
+213507,Lebanon Valley College,53640.0,53640.0,67002.0,704.0,Private
+213543,Lehigh University,67920.0,67920.0,116342.0,1143.0,Private
+213598,Lincoln University,13144.0,20358.0,53919.0,834.0,Public
+213668,Lycoming College,51949.0,51949.0,60091.0,582.0,Private
+213826,Marywood University,43448.0,43448.0,59635.0,948.0,Private
+213987,Mercyhurst University,47270.0,47270.0,55508.0,2114.0,Private
+213996,Messiah University,43580.0,43580.0,60377.0,1044.0,Private
+214041,Millersville University of Pennsylvania,11592.0,23896.0,58443.0,3059.0,Public
+214069,Misericordia University,43000.0,43000.0,69735.0,1111.0,Private
+214148,Moore College of Art and Design,55166.0,55166.0,44219.0,219.0,Private
+214157,Moravian University,55560.0,55560.0,66967.0,694.0,Private
+214166,Mount Aloysius College,27884.0,27884.0,52584.0,958.0,Private
+214175,Muhlenberg College,65310.0,65310.0,76444.0,597.0,Private
+214272,Neumann University,40272.0,40272.0,59976.0,1209.0,Private
+214591,Pennsylvania State University-Penn State Erie-Behrend College,16004.0,27254.0,71762.0,25447.0,Public
+214625,Pennsylvania State University-Penn State New Kensington,14440.0,24402.0,71762.0,25447.0,Public
+214634,Pennsylvania State University-Penn State Shenango,14052.0,23820.0,71762.0,25447.0,Public
+214643,Pennsylvania State University-Penn State Wilkes-Barre,14440.0,24402.0,71762.0,25447.0,Public
+214652,Pennsylvania State University-Penn State Scranton,15240.0,25672.0,71762.0,25447.0,Public
+214670,Pennsylvania State University-Penn State Lehigh Valley,15240.0,25672.0,71762.0,25447.0,Public
+214689,Pennsylvania State University-Penn State Altoona,16004.0,27254.0,71762.0,25447.0,Public
+214698,Pennsylvania State University-Penn State Beaver,14440.0,24402.0,71762.0,25447.0,Public
+214704,Pennsylvania State University-Penn State Berks,16004.0,27254.0,71762.0,25447.0,Public
+214713,Pennsylvania State University-Penn State Harrisburg,16004.0,27254.0,71762.0,25447.0,Public
+214731,Pennsylvania State University-Penn State Brandywine,15240.0,25672.0,71762.0,25447.0,Public
+214740,Pennsylvania State University-Penn State DuBois,14440.0,24402.0,71762.0,25447.0,Public
+214759,Pennsylvania State University-Penn State Fayette- Eberly,14440.0,24402.0,71762.0,25447.0,Public
+214768,Pennsylvania State University-Penn State Hazleton,15240.0,25672.0,71762.0,25447.0,Public
+214777,Pennsylvania State University-Main Campus,21098.0,43490.0,71762.0,25447.0,Public
+214786,Pennsylvania State University-Penn State Greater Allegheny,14440.0,24402.0,71762.0,25447.0,Public
+214795,Pennsylvania State University-Penn State Mont Alto,14440.0,24402.0,71762.0,25447.0,Public
+214801,Pennsylvania State University-Penn State Abington,15300.0,25946.0,71762.0,25447.0,Public
+214810,Pennsylvania State University-Penn State Schuylkill,15240.0,25672.0,71762.0,25447.0,Public
+214829,Pennsylvania State University-Penn State York,15240.0,25672.0,71762.0,25447.0,Public
+214883,Peirce College,15060.0,15060.0,51149.0,1156.0,Private
+214971,Pennsylvania Academy of the Fine Arts,35500.0,35500.0,35802.0,62.0,Private
+215053,Pennsylvania College of Art and Design,33309.0,33309.0,36746.0,118.0,Private
+215062,University of Pennsylvania,71236.0,71236.0,121687.0,1704.0,Private
+215114,Cairn University-Langhorne,35069.0,35069.0,49435.0,369.0,Private
+215266,University of Pittsburgh-Bradford,15006.0,26998.0,73113.0,8495.0,Public
+215275,University of Pittsburgh-Greensburg,14946.0,26928.0,73113.0,8495.0,Public
+215284,University of Pittsburgh-Johnstown,15142.0,27134.0,73113.0,8495.0,Public
+215293,University of Pittsburgh-Pittsburgh Campus,22736.0,43432.0,73113.0,8495.0,Public
+215442,Point Park University,41000.0,41000.0,52251.0,1650.0,Private
+215655,Robert Morris University,37350.0,37350.0,69633.0,1937.0,Private
+215691,Rosemont College,26276.0,26276.0,60410.0,220.0,Private
+215743,Saint Francis University,45700.0,45700.0,69383.0,772.0,Private
+215770,Saint Joseph's University - Philadelphia,55380.0,55380.0,85980.0,3045.0,Private
+215798,Saint Vincent College,43696.0,43696.0,66391.0,532.0,Private
+215929,University of Scranton,55713.0,55713.0,85590.0,1461.0,Private
+215947,Seton Hill University,44424.0,44424.0,55756.0,738.0,Private
+216010,Shippensburg University of Pennsylvania,14068.0,16418.0,58077.0,2983.0,Public
+216038,Slippery Rock University of Pennsylvania,10906.0,15162.0,57995.0,3406.0,Public
+216047,Saint Charles Borromeo Seminary-Overbrook,26805.0,26805.0,58262.0,22.0,Private
+216278,Susquehanna University,62200.0,62200.0,67676.0,827.0,Private
+216287,Swarthmore College,69226.0,69226.0,86311.0,222.0,Private
+216339,Temple University,23824.0,36887.0,71027.0,10391.0,Public
+216357,Thiel College,39900.0,39900.0,51676.0,591.0,Private
+216366,Thomas Jefferson University,49450.0,49450.0,78311.0,1850.0,Private
+216524,Ursinus College,62374.0,62374.0,74571.0,528.0,Private
+216542,University of Valley Forge,26520.0,26520.0,43845.0,394.0,Private
+216597,Villanova University,70826.0,70826.0,115382.0,1708.0,Private
+216667,Washington & Jefferson College,30475.0,30475.0,75646.0,537.0,Private
+216694,Waynesburg University,31350.0,31350.0,62368.0,807.0,Private
+216764,West Chester University of Pennsylvania,11464.0,23876.0,66629.0,5218.0,Public
+216807,Westminster College,41100.0,41100.0,59487.0,518.0,Private
+216852,Widener University,58280.0,58280.0,76782.0,1479.0,Private
+216931,Wilkes University,44742.0,44742.0,75038.0,1061.0,Private
+217013,Wilson College,27150.0,27150.0,45795.0,204.0,Private
+217059,York College of Pennsylvania,26920.0,26920.0,65507.0,2054.0,Private
+217156,Brown University,74650.0,74650.0,99974.0,926.0,Private
+217165,Bryant University,54404.0,54404.0,104456.0,953.0,Private
+217235,Johnson & Wales University-Providence,44581.0,44581.0,53928.0,7690.0,Private
+217402,Providence College,65960.0,65960.0,90260.0,1194.0,Private
+217420,Rhode Island College,11709.0,28268.0,60399.0,2586.0,Public
+217484,University of Rhode Island,17476.0,38398.0,73439.0,5040.0,Public
+217493,Rhode Island School of Design,65136.0,65136.0,69341.0,365.0,Private
+217518,Roger Williams University,45978.0,45978.0,77127.0,1510.0,Private
+217536,Salve Regina University,52230.0,52230.0,73336.0,887.0,Private
+217606,Northpoint Bible College,14160.0,14160.0,44520.0,162.0,Private
+217624,Allen University,14304.0,14304.0,32754.0,386.0,Private
+217633,Anderson University,36360.0,36360.0,51191.0,1053.0,Private
+217688,Charleston Southern University,34080.0,34080.0,52265.0,1433.0,Private
+217721,Benedict College,18103.0,18103.0,36562.0,1582.0,Private
+217749,Bob Jones University,25150.0,25150.0,49158.0,906.0,Private
+217776,Southern Wesleyan University,30550.0,30550.0,48710.0,673.0,Private
+217819,College of Charleston,12978.0,38844.0,63018.0,2867.0,Public
+217864,Citadel Military College of South Carolina,12570.0,40061.0,82609.0,890.0,Public
+217873,Claflin University,19075.0,19075.0,44351.0,818.0,Private
+217882,Clemson University,15854.0,42378.0,79064.0,4979.0,Public
+217891,Clinton College,11136.0,11136.0,32353.0,121.0,Private
+217907,Coker University,34249.0,34249.0,45746.0,567.0,Private
+217925,Columbia International University,27900.0,27900.0,44657.0,190.0,Private
+217934,Columbia College,24436.0,24436.0,46266.0,524.0,Private
+217961,Converse University,34144.0,34144.0,45726.0,318.0,Private
+217998,Erskine College,36710.0,36710.0,53830.0,224.0,Private
+218061,Francis Marion University,11160.0,21544.0,47527.0,1523.0,Public
+218070,Furman University,61444.0,61444.0,70201.0,515.0,Private
+218229,Lander University,11700.0,21300.0,45360.0,1238.0,Public
+218399,Morris College,16728.0,16728.0,37276.0,550.0,Private
+218414,Newberry College,32750.0,32750.0,51404.0,487.0,Private
+218441,North Greenville University,26820.0,26820.0,47090.0,863.0,Private
+218539,Presbyterian College,46160.0,46160.0,61828.0,409.0,Private
+218645,University of South Carolina Aiken,10760.0,21218.0,51703.0,1177.0,Public
+218654,University of South Carolina Beaufort,10730.0,21776.0,51424.0,873.0,Public
+218663,University of South Carolina-Columbia,12688.0,37376.0,69024.0,7333.0,Public
+218724,Coastal Carolina University,11640.0,29926.0,54702.0,3270.0,Public
+218733,South Carolina State University,11060.0,21750.0,41531.0,1297.0,Public
+218742,University of South Carolina-Upstate,11588.0,23090.0,53988.0,2430.0,Public
+218919,Voorhees University,12630.0,12630.0,36292.0,376.0,Private
+218964,Winthrop University,14680.0,28720.0,49727.0,1872.0,Public
+218973,Wofford College,58250.0,58250.0,76744.0,415.0,Private
+219000,Augustana University,41768.0,41768.0,61271.0,601.0,Private
+219046,Black Hills State University,9014.0,12206.0,49283.0,1483.0,Public
+219082,Dakota State University,9938.0,13130.0,53378.0,954.0,Public
+219091,Dakota Wesleyan University,34540.0,34540.0,57757.0,456.0,Private
+219198,Mount Marty University,35775.0,35775.0,52585.0,335.0,Private
+219204,National American University-Rapid City,16065.0,16065.0,38663.0,9743.0,Private
+219259,Northern State University,9824.0,12057.0,51006.0,847.0,Public
+219347,South Dakota School of Mines and Technology,11500.0,16200.0,78487.0,739.0,Public
+219356,South Dakota State University,9554.0,13166.0,58802.0,4465.0,Public
+219383,University of Sioux Falls,22900.0,22900.0,59404.0,624.0,Private
+219471,University of South Dakota,9687.0,13299.0,58316.0,3128.0,Public
+219505,American Baptist College,14300.0,14300.0,42312.0,45.0,Private
+219602,Austin Peay State University,9456.0,15216.0,48900.0,3949.0,Public
+219639,Baptist Health Sciences University,14036.0,14036.0,70235.0,562.0,Private
+219709,Belmont University,43750.0,43750.0,62789.0,1744.0,Private
+219718,Bethel University,18712.0,18712.0,49011.0,3506.0,Private
+219790,Bryan College-Dayton,22000.0,22000.0,55127.0,715.0,Private
+219806,Carson-Newman University,38700.0,38700.0,51756.0,785.0,Private
+219833,Christian Brothers University,39750.0,39750.0,55642.0,487.0,Private
+219949,Cumberland University,28540.0,28540.0,66885.0,699.0,Private
+219976,Lipscomb University,42596.0,42596.0,62332.0,1120.0,Private
+220075,East Tennessee State University,10994.0,15194.0,48646.0,4708.0,Public
+220181,Fisk University,27374.0,27374.0,45614.0,224.0,Private
+220206,Welch College,22042.0,22042.0,44636.0,121.0,Private
+220215,Freed-Hardeman University,26260.0,26260.0,48969.0,572.0,Private
+220473,Johnson University,21854.0,21854.0,44300.0,618.0,Private
+220516,King University,37564.0,37564.0,65781.0,1380.0,Private
+220598,Lane College,13068.0,13068.0,35657.0,964.0,Private
+220604,Le Moyne-Owen College,12778.0,12778.0,41221.0,717.0,Private
+220613,Lee University,24870.0,24870.0,47741.0,1804.0,Private
+220631,Lincoln Memorial University,27368.0,27368.0,59630.0,981.0,Private
+220701,The University of Tennessee Southern,11264.0,11264.0,46623.0,586.0,Public
+220710,Maryville College,40658.0,40658.0,50006.0,504.0,Private
+220862,University of Memphis,11256.0,15960.0,52227.0,6507.0,Public
+220978,Middle Tennessee State University,10932.0,33428.0,52702.0,8359.0,Public
+221351,Rhodes College,59082.0,59082.0,79506.0,475.0,Private
+221519,The University of the South,58226.0,58226.0,72175.0,333.0,Private
+221661,Southern Adventist University,28900.0,28900.0,58780.0,944.0,Private
+221731,Tennessee Wesleyan University,32050.0,32050.0,53474.0,543.0,Private
+221740,The University of Tennessee-Chattanooga,10762.0,19068.0,56442.0,3984.0,Public
+221759,The University of Tennessee-Knoxville,13812.0,33256.0,65090.0,6371.0,Public
+221768,The University of Tennessee-Martin,10824.0,16864.0,48116.0,2618.0,Public
+221838,Tennessee State University,9048.0,22848.0,47151.0,3299.0,Public
+221847,Tennessee Technological University,11926.0,16126.0,52901.0,3681.0,Public
+221892,Trevecca Nazarene University,33300.0,33300.0,56862.0,759.0,Private
+221953,Tusculum University,30750.0,30750.0,48636.0,1070.0,Private
+221971,Union University,41470.0,41470.0,58910.0,1094.0,Private
+221999,Vanderbilt University,71226.0,71226.0,99080.0,990.0,Private
+222178,Abilene Christian University,45800.0,45800.0,61376.0,1147.0,Private
+222831,Angelo State University,8460.0,18180.0,51945.0,2461.0,Public
+222877,Arlington Baptist University,20640.0,20640.0,46558.0,147.0,Private
+222983,Austin College,50014.0,50014.0,62064.0,386.0,Private
+223117,Baptist Missionary Association Theological Seminary,10050.0,10050.0,36759.0,25.0,Private
+223232,Baylor University,63620.0,63620.0,72408.0,3735.0,Private
+224004,Concordia University Texas,25000.0,25000.0,64677.0,849.0,Private
+224147,Texas A & M University-Corpus Christi,9748.0,20673.0,55480.0,3550.0,Public
+224226,Dallas Baptist University,41870.0,41870.0,58159.0,1340.0,Private
+224244,Dallas Christian College,22060.0,22060.0,46823.0,175.0,Private
+224323,University of Dallas,56630.0,56630.0,64930.0,417.0,Private
+224527,East Texas Baptist University,31760.0,31760.0,51124.0,687.0,Private
+224545,Texas A&M University-Texarkana,7950.0,20607.0,49427.0,790.0,Public
+224554,East Texas A&M University,10026.0,22176.0,52631.0,3128.0,Public
+225247,Hardin-Simmons University,34260.0,34260.0,56313.0,764.0,Private
+225399,Houston Christian University,40680.0,40680.0,60634.0,873.0,Private
+225414,University of Houston-Clear Lake,7770.0,21114.0,61521.0,1835.0,Public
+225432,University of Houston-Downtown,7708.0,17428.0,57404.0,5480.0,Public
+225502,Texas A&M University-Victoria,7149.0,16869.0,55871.0,1333.0,Public
+225511,University of Houston,9717.0,22427.0,68423.0,10800.0,Public
+225548,Howard Payne University,36560.0,36560.0,49434.0,503.0,Private
+225575,Huston-Tillotson University,26709.0,26709.0,46645.0,544.0,Private
+225627,University of the Incarnate Word,38650.0,38650.0,60110.0,2721.0,Private
+225885,Jarvis Christian University,11720.0,11720.0,37810.0,394.0,Private
+226091,Lamar University,8905.0,18625.0,53857.0,4055.0,Public
+226152,Texas A & M International University,7893.0,19334.0,51325.0,2259.0,Public
+226231,LeTourneau University,38290.0,38290.0,61644.0,1015.0,Private
+226383,Lubbock Christian University,30220.0,30220.0,54710.0,842.0,Private
+226471,University of Mary Hardin-Baylor,33140.0,33140.0,59613.0,1359.0,Private
+226587,McMurry University,33634.0,33634.0,53830.0,653.0,Private
+226833,Midwestern State University,10580.0,22730.0,59560.0,1814.0,Public
+227216,University of North Texas,11309.0,21029.0,59434.0,11800.0,Public
+227331,Our Lady of the Lake University,32138.0,32138.0,53299.0,824.0,Private
+227368,The University of Texas Rio Grande Valley,9993.0,19713.0,52947.0,6441.0,Public
+227429,Paul Quinn College,16248.0,16248.0,37049.0,168.0,Private
+227526,Prairie View A & M University,11299.0,26874.0,49183.0,3037.0,Public
+227757,Rice University,67857.0,67857.0,90773.0,610.0,Private
+227845,Saint Edward's University,51890.0,51890.0,64695.0,1441.0,Private
+227863,University of St Thomas,35754.0,35754.0,64410.0,461.0,Private
+227881,Sam Houston State University,9228.0,19068.0,56877.0,6008.0,Public
+228042,Schreiner University,40850.0,40850.0,54990.0,538.0,Private
+228149,St. Mary's University,38670.0,38670.0,59258.0,975.0,Private
+228246,Southern Methodist University,69722.0,69722.0,90037.0,1218.0,Private
+228325,Nelson University,26324.0,26324.0,46684.0,842.0,Private
+228343,Southwestern University,56944.0,56944.0,63314.0,402.0,Private
+228431,Stephen F Austin State University,11228.0,20948.0,54376.0,4799.0,Public
+228459,Texas State University,11481.0,22821.0,60523.0,10705.0,Public
+228468,Southwestern Adventist University,26120.0,26120.0,57299.0,336.0,Private
+228501,Sul Ross State University,7592.0,17672.0,47311.0,1048.0,Public
+228529,Tarleton State University,8302.0,18019.0,56673.0,4804.0,Public
+228705,Texas A&M University-Kingsville,9892.0,25806.0,55340.0,4518.0,Public
+228723,Texas A&M University-College Station,13154.0,39974.0,78159.0,10277.0,Public
+228769,The University of Texas at Arlington,11950.0,29432.0,72508.0,11780.0,Public
+228778,The University of Texas at Austin,11656.0,44816.0,81694.0,9269.0,Public
+228787,The University of Texas at Dallas,14664.0,40164.0,74762.0,4096.0,Public
+228796,The University of Texas at El Paso,9772.0,25110.0,54599.0,7323.0,Public
+228802,The University of Texas at Tyler,9736.0,25184.0,58622.0,2372.0,Public
+228875,Texas Christian University,63590.0,63590.0,77334.0,1840.0,Private
+228884,Texas College,10008.0,10008.0,36030.0,646.0,Private
+228981,Texas Lutheran University,37800.0,37800.0,59747.0,645.0,Private
+229018,The University of Texas Permian Basin,9236.0,21836.0,61557.0,1301.0,Public
+229027,The University of Texas at San Antonio,9019.0,21939.0,60704.0,9723.0,Public
+229063,Texas Southern University,9173.0,21473.0,46064.0,3243.0,Public
+229115,Texas Tech University,11852.0,24451.0,67143.0,8242.0,Public
+229160,Texas Wesleyan University,40844.0,40844.0,56582.0,663.0,Private
+229179,Texas Woman's University,9000.0,18720.0,59216.0,4238.0,Public
+229267,Trinity University,56496.0,56496.0,79620.0,508.0,Private
+229780,Wayland Baptist University,23902.0,23902.0,55564.0,1993.0,Private
+229814,West Texas A & M University,9664.0,24829.0,55024.0,2923.0,Public
+229887,Wiley University,12500.0,12500.0,37604.0,801.0,Private
+230038,Brigham Young University,6888.0,6888.0,80228.0,7448.0,Private
+230047,Brigham Young University-Hawaii,9102.0,9102.0,57487.0,706.0,Private
+230603,Southern Utah University,7094.0,21646.0,53925.0,2256.0,Public
+230728,Utah State University,9412.0,26259.0,59177.0,7567.0,Public
+230764,University of Utah,9832.0,31768.0,72729.0,6885.0,Public
+230807,Westminster University,44980.0,44980.0,70627.0,864.0,Private
+230816,Bennington College,68746.0,68746.0,46253.0,193.0,Private
+230852,Champlain College,50000.0,50000.0,60573.0,1071.0,Private
+230959,Middlebury College,70640.0,70640.0,85077.0,353.0,Private
+230995,Norwich University,51710.0,51710.0,78407.0,921.0,Private
+231059,Saint Michael's College,52550.0,52550.0,66136.0,694.0,Private
+231095,Sterling College,40786.0,40786.0,38978.0,59.0,Private
+231165,Vermont State University,12390.0,23094.0,54163.0,3141.0,Public
+231174,University of Vermont,19514.0,47554.0,68368.0,2941.0,Public
+231420,Averett University,39670.0,39670.0,56693.0,816.0,Private
+231554,Bluefield University,26770.0,26770.0,52571.0,570.0,Private
+231581,Bridgewater College,17523.0,17523.0,58669.0,759.0,Private
+231624,William & Mary,26456.0,52725.0,83488.0,1103.0,Public
+231651,Regent University,22740.0,22740.0,51408.0,1026.0,Private
+231712,Christopher Newport University,17219.0,31440.0,65183.0,1545.0,Public
+232025,Emory & Henry University,39975.0,39975.0,52287.0,395.0,Private
+232043,Eastern Mennonite University,45650.0,45650.0,58912.0,529.0,Private
+232089,Ferrum College,30070.0,30070.0,48617.0,945.0,Private
+232186,George Mason University,14316.0,39312.0,79923.0,6252.0,Public
+232256,Hampden-Sydney College,57040.0,57040.0,76989.0,392.0,Private
+232265,Hampton University,31512.0,31512.0,63602.0,1317.0,Private
+232308,Hollins University,44640.0,44640.0,48102.0,222.0,Private
+232423,James Madison University,14620.0,32230.0,75482.0,4612.0,Public
+232557,Liberty University,23171.0,23171.0,46945.0,26940.0,Private
+232566,Longwood University,16538.0,29146.0,55653.0,1448.0,Public
+232609,University of Lynchburg,38150.0,38150.0,57425.0,985.0,Private
+232672,Mary Baldwin University,35357.0,35357.0,48703.0,682.0,Private
+232681,University of Mary Washington,15304.0,28810.0,66028.0,1275.0,Public
+232706,Marymount University,42986.0,42986.0,74032.0,961.0,Private
+232937,Norfolk State University,10456.0,21806.0,49237.0,2531.0,Public
+232982,Old Dominion University,13250.0,34325.0,60482.0,7104.0,Public
+233277,Radford University,12952.0,26734.0,59134.0,4076.0,Public
+233295,Randolph-Macon College,50950.0,50950.0,64714.0,571.0,Private
+233301,Randolph College,31590.0,31590.0,53121.0,287.0,Private
+233374,University of Richmond,67840.0,67840.0,92362.0,721.0,Private
+233426,Roanoke College,39208.0,39208.0,64329.0,799.0,Private
+233541,Shenandoah University,37860.0,37860.0,66382.0,834.0,Private
+233611,Southern Virginia University,21380.0,21380.0,53570.0,380.0,Private
+233684,Strayer University-Virginia,13920.0,13920.0,44016.0,19948.0,Private
+233718,Sweet Briar College,27680.0,27680.0,54986.0,221.0,Private
+233897,University of Virginia's College at Wise,11780.0,28010.0,50389.0,645.0,Public
+233921,Virginia Polytechnic Institute and State University,16450.0,38914.0,88716.0,5762.0,Public
+234030,Virginia Commonwealth University,17490.0,40654.0,64442.0,7239.0,Public
+234076,University of Virginia-Main Campus,22431.0,61457.0,96468.0,2565.0,Public
+234085,Virginia Military Institute,21366.0,51958.0,85178.0,466.0,Public
+234137,Virginia University of Lynchburg,11360.0,11360.0,31749.0,378.0,Private
+234155,Virginia State University,10418.0,23404.0,49358.0,2667.0,Public
+234164,Virginia Union University,19660.0,19660.0,44816.0,743.0,Private
+234173,Virginia Wesleyan University,38780.0,38780.0,54390.0,697.0,Private
+234207,Washington and Lee University,71365.0,71365.0,102966.0,281.0,Private
+234827,Central Washington University,9655.0,28362.0,65578.0,4239.0,Public
+234915,City University of Seattle,14100.0,14100.0,66765.0,376.0,Private
+235097,Eastern Washington University,8886.0,26073.0,62463.0,4255.0,Public
+235167,The Evergreen State College,9537.0,32925.0,48982.0,1604.0,Public
+235316,Gonzaga University,57250.0,57250.0,89110.0,1395.0,Private
+235422,Heritage University,21556.0,21556.0,58279.0,527.0,Private
+236133,Northwest University,37360.0,37360.0,61237.0,685.0,Private
+236230,Pacific Lutheran University,53096.0,53096.0,71109.0,1101.0,Private
+236328,University of Puget Sound,65886.0,65886.0,71918.0,681.0,Private
+236452,Saint Martin's University,46856.0,46856.0,70376.0,595.0,Private
+236577,Seattle Pacific University,44367.0,44367.0,71277.0,1257.0,Private
+236595,Seattle University,58965.0,58965.0,84728.0,1463.0,Private
+236896,Walla Walla University,35757.0,35757.0,67140.0,619.0,Private
+236939,Washington State University,13888.0,30994.0,72280.0,8602.0,Public
+236948,University of Washington-Seattle Campus,13406.0,44640.0,83105.0,10052.0,Public
+237011,Western Washington University,9924.0,29091.0,64305.0,4267.0,Public
+237057,Whitman College,66610.0,66610.0,70813.0,262.0,Private
+237066,Whitworth University,55450.0,55450.0,64055.0,934.0,Private
+237136,Appalachian Bible College,19700.0,19700.0,42377.0,110.0,Private
+237181,Bethany College,38896.0,38896.0,49672.0,420.0,Private
+237215,Bluefield State University,10648.0,18376.0,45981.0,854.0,Public
+237312,University of Charleston,33990.0,33990.0,56207.0,637.0,Private
+237330,Concord University,10856.0,22192.0,45054.0,1102.0,Public
+237358,Davis & Elkins College,32540.0,32540.0,45563.0,378.0,Private
+237367,Fairmont State University,8708.0,13064.0,49370.0,1690.0,Public
+237385,Glenville State University,9578.0,11354.0,44924.0,667.0,Public
+237525,Marshall University,9388.0,20390.0,49444.0,3407.0,Public
+237783,Salem University,11900.0,11900.0,42194.0,531.0,Private
+237792,Shepherd University,9404.0,19706.0,54833.0,1515.0,Public
+237899,West Virginia State University,9570.0,14990.0,43742.0,901.0,Public
+237932,West Liberty University,8890.0,17442.0,49503.0,1131.0,Public
+237950,West Virginia University Institute of Technology,8976.0,22440.0,62910.0,9192.0,Public
+237969,West Virginia Wesleyan College,34416.0,34416.0,55361.0,599.0,Private
+238032,West Virginia University,10752.0,30432.0,62910.0,9192.0,Public
+238078,Wheeling University,31090.0,31090.0,64655.0,505.0,Private
+238193,Alverno College,35112.0,35112.0,59707.0,934.0,Private
+238324,Bellin College,31949.0,31949.0,78273.0,161.0,Private
+238333,Beloit College,62586.0,62586.0,59443.0,331.0,Private
+238458,Carroll University,40680.0,40680.0,64501.0,1397.0,Private
+238476,Carthage College,41000.0,41000.0,59594.0,1217.0,Private
+238616,Concordia University-Wisconsin,36530.0,36530.0,61992.0,2235.0,Private
+238661,Edgewood University,37120.0,37120.0,64869.0,871.0,Private
+238980,Lakeland University,34516.0,34516.0,61368.0,1012.0,Private
+239017,Lawrence University,58794.0,58794.0,59025.0,377.0,Private
+239071,Maranatha Baptist University,22600.0,22600.0,46953.0,332.0,Private
+239080,Marian University,37422.0,37422.0,59860.0,795.0,Private
+239105,Marquette University,53270.0,53270.0,83810.0,2206.0,Private
+239309,Milwaukee Institute of Art & Design,45218.0,45218.0,47843.0,304.0,Private
+239318,Milwaukee School of Engineering,52228.0,52228.0,92761.0,912.0,Private
+239390,Mount Mary University,36490.0,36490.0,54273.0,395.0,Private
+239628,Ripon College,53250.0,53250.0,55453.0,318.0,Private
+239716,Saint Norbert College,46696.0,46696.0,62317.0,886.0,Private
+240107,Viterbo University,35790.0,35790.0,65641.0,951.0,Private
+240189,University of Wisconsin-Whitewater,9047.0,19147.0,59084.0,4075.0,Public
+240268,University of Wisconsin-Eau Claire,10207.0,20272.0,62438.0,3510.0,Public
+240277,University of Wisconsin-Green Bay,8985.0,17573.0,56401.0,2658.0,Public
+240329,University of Wisconsin-La Crosse,10534.0,20453.0,65850.0,3249.0,Public
+240338,Wisconsin Lutheran College,37360.0,37360.0,68940.0,515.0,Private
+240365,University of Wisconsin-Oshkosh,8993.0,17302.0,59275.0,4269.0,Public
+240374,University of Wisconsin-Parkside,8658.0,18275.0,57115.0,1754.0,Public
+240417,University of Wisconsin-Stout,11196.0,20188.0,62537.0,3246.0,Public
+240426,University of Wisconsin-Superior,9272.0,17581.0,51871.0,1182.0,Public
+240444,University of Wisconsin-Madison,12166.0,44191.0,80330.0,6669.0,Public
+240453,University of Wisconsin-Milwaukee,10916.0,23515.0,59268.0,8562.0,Public
+240462,University of Wisconsin-Platteville,9031.0,18438.0,66166.0,3099.0,Public
+240471,University of Wisconsin-River Falls,9436.0,18321.0,56914.0,2426.0,Public
+240480,University of Wisconsin-Stevens Point,9669.0,18689.0,54432.0,3596.0,Public
+240727,University of Wyoming,8395.0,25015.0,62764.0,2936.0,Public
+240754,University of Guam,6110.0,11414.0,40364.0,1117.0,Public
+241191,Universidad Adventista de las Antillas,8350.0,8350.0,34288.0,611.0,Private
+241216,Atlantic University,8928.0,8928.0,27588.0,782.0,Private
+241225,Universidad Central de Bayamon,6370.0,6370.0,27514.0,710.0,Private
+241331,Albizu University-San Juan,8505.0,8505.0,48006.0,287.0,Private
+241386,Caribbean University-Carolina,8844.0,8844.0,27834.0,2295.0,Private
+241395,Pontifical Catholic University of Puerto Rico-Arecibo,6670.0,6670.0,30445.0,3157.0,Private
+241410,Pontifical Catholic University of Puerto Rico-Ponce,6770.0,6770.0,30445.0,3157.0,Private
+241614,Universidad Teologica del Caribe,6660.0,6660.0,20666.0,73.0,Private
+241739,Universidad Ana G. Mendez-Cupey Campus,7910.0,7910.0,28331.0,6135.0,Private
+241766,Puerto Rico Conservatory of Music,3370.0,3850.0,30994.0,118.0,Public
+241951,Escuela de Artes Plasticas y Diseno de Puerto Rico,4902.0,8502.0,24622.0,138.0,Public
+242617,Inter American University of Puerto Rico-San German,5780.0,5780.0,29577.0,2131.0,Private
+242626,Inter American University of Puerto Rico-Aguadilla,5742.0,5742.0,28062.0,2364.0,Private
+242635,Inter American University of Puerto Rico-Arecibo,5780.0,5780.0,28947.0,2230.0,Private
+242644,Inter American University of Puerto Rico-Barranquitas,5742.0,5742.0,26284.0,1182.0,Private
+242653,Inter American University of Puerto Rico-Metro,5780.0,5780.0,36036.0,3262.0,Private
+242662,Inter American University of Puerto Rico-Ponce,5780.0,5780.0,30335.0,2789.0,Private
+242680,Inter American University of Puerto Rico-Fajardo,5780.0,5780.0,28660.0,1035.0,Private
+242705,Inter American University of Puerto Rico-Bayamon,5780.0,5780.0,32838.0,2354.0,Private
+243106,University of Puerto Rico-Aguadilla,5954.0,5954.0,31231.0,1079.0,Public
+243115,University of Puerto Rico-Arecibo,5354.0,5354.0,33308.0,1209.0,Public
+243133,University of Puerto Rico,6284.0,6284.0,37789.0,1600.0,Public
+243142,University of Puerto Rico-Carolina,7986.0,7986.0,35146.0,1455.0,Public
+243151,University of Puerto Rico at Cayey,5354.0,5354.0,35022.0,999.0,Public
+243179,University of Puerto Rico-Humacao,5364.0,5364.0,34452.0,988.0,Public
+243197,University of Puerto Rico-Mayaguez,5954.0,5954.0,47912.0,2287.0,Public
+243212,University of Puerto Rico at Ponce,5354.0,5354.0,35162.0,982.0,Public
+243221,University of Puerto Rico-Rio Piedras,5354.0,5354.0,38928.0,2465.0,Public
+243346,Universidad Ana G. Mendez-Carolina Campus,8560.0,8560.0,28770.0,6312.0,Private
+243443,Universidad del Sagrado Corazon,6700.0,6700.0,35345.0,2146.0,Private
+243577,Universidad Politecnica de Puerto Rico,10722.0,10722.0,50437.0,1347.0,Private
+243586,Pontifical Catholic University of Puerto Rico-Mayaguez,6670.0,6670.0,30445.0,3157.0,Private
+243601,Universidad Ana G. Mendez-Gurabo Campus,8560.0,8560.0,30580.0,7428.0,Private
+243665,University of the Virgin Islands,5957.0,16557.0,43157.0,740.0,Public
+243744,Stanford University,68544.0,68544.0,125340.0,820.0,Private
+243780,Purdue University-Main Campus,9992.0,28794.0,80082.0,6385.0,Public
+243823,Parker University,18523.0,18523.0,56771.0,292.0,Private
+245652,St. John's College,42130.0,42130.0,45537.0,113.0,Private
+245953,Mid-America Christian University,22356.0,22356.0,46785.0,1359.0,Private
+251312,South University-Columbia,18145.0,18145.0,39314.0,20910.0,Private
+262086,University of Massachusetts Global,12560.0,12560.0,68286.0,2632.0,Public
+262129,New College of Florida,6916.0,29944.0,53164.0,218.0,Public
+363712,Yeshivah Gedolah Rabbinical College,9300.0,9300.0,49146.0,24.0,Private
+363907,Caribbean University-Ponce,8844.0,8844.0,27834.0,2295.0,Private
+363916,Caribbean University-Vega Baja,8844.0,8844.0,27834.0,2295.0,Private
+366711,California State University-San Marcos,8454.0,21774.0,67217.0,3653.0,Public
+368452,Nossi College of Art and Design,20500.0,20500.0,36368.0,221.0,Private
+375230,Yeshiva Gedolah Imrei Yosef D'spinka,12500.0,12500.0,25247.0,62.0,Private
+377546,Northwest College of Art & Design,18100.0,18100.0,39289.0,49.0,Private
+377555,University of Washington-Bothell Campus,13472.0,44706.0,83105.0,10052.0,Public
+377564,University of Washington-Tacoma Campus,13577.0,44811.0,83105.0,10052.0,Public
+380438,Provo College,16606.0,16606.0,42739.0,465.0,Private
+384254,Beacon College,54256.0,54256.0,28501.0,48.0,Private
+385619,Everglades University,22400.0,22400.0,48760.0,637.0,Private
+388520,College of Biblical Studies-Houston,10180.0,10180.0,44156.0,347.0,Private
+399911,Soka University of America,39536.0,39536.0,66071.0,81.0,Private
+401223,World Mission University,7400.0,7400.0,24300.0,26.0,Private
+404338,Schiller International University,13680.0,13680.0,48333.0,162.0,Private
+405854,Rabbinical College of Ohr Shimon Yisroel,22300.0,22300.0,23663.0,111.0,Private
+409698,California State University-Monterey Bay,8145.0,21465.0,63891.0,2172.0,Public
+413413,Capella University,14328.0,14328.0,51254.0,7520.0,Private
+414878,Trine University-Regional/Non-Traditional Campuses,7176.0,7176.0,65360.0,1021.0,Private
+417752,Messenger College,11620.0,11620.0,42383.0,31.0,Private
+418126,New York College of Health Professions,16395.0,16395.0,39854.0,503.0,Private
+420325,Yeshiva D'monsey Rabbinical College,8000.0,8000.0,28704.0,25.0,Private
+421708,Arizona College of Nursing-Tempe,26733.0,26733.0,41223.0,1077.0,Private
+421878,Eastern International College-Jersey City,18383.0,18383.0,46594.0,313.0,Private
+426314,Embry-Riddle Aeronautical University-Worldwide,12553.0,12553.0,92069.0,4378.0,Private
+430184,Strayer University-Maryland,13920.0,13920.0,44016.0,19948.0,Private
+433004,American University of Health Sciences,24800.0,24800.0,113922.0,139.0,Private
+433387,Western Governors University,8730.0,8730.0,76999.0,18605.0,Private
+433420,California Aeronautical University,39972.0,39972.0,46345.0,305.0,Private
+433660,Florida Gulf Coast University,6118.0,25162.0,59401.0,4625.0,Public
+436818,University of Connecticut-Waterbury Campus,18250.0,40918.0,82098.0,6722.0,Public
+436827,University of Connecticut-Avery Point,18250.0,40918.0,82098.0,6722.0,Public
+436836,University of Connecticut-Stamford,18260.0,40928.0,82098.0,6722.0,Public
+437097,University of Management and Technology,9450.0,9450.0,68470.0,74.0,Private
+438586,American InterContinental University-Atlanta,13297.0,13297.0,42612.0,11205.0,Private
+439701,The King's University,13780.0,13780.0,47308.0,138.0,Private
+440794,Pillar College,27352.0,27352.0,46968.0,204.0,Private
+440828,Oregon State University-Cascades Campus,14255.0,39215.0,67894.0,7673.0,Public
+441900,Nevada State University,7290.0,22765.0,58648.0,1244.0,Public
+441937,California State University-Channel Islands,7596.0,20916.0,66328.0,2068.0,Public
+441982,Franklin W Olin College of Engineering,69378.0,69378.0,138832.0,64.0,Private
+442569,University of Arkansas Grantham,8520.0,8520.0,40581.0,3462.0,Public
+442639,University of the Potomac-VA Campus,6660.0,6660.0,43211.0,178.0,Private
+443049,Faith International University,8850.0,8850.0,57111.0,56.0,Private
+443331,West Coast University-Texas,17482.0,17482.0,104344.0,2518.0,Private
+443410,DigiPen Institute of Technology,40070.0,40070.0,80038.0,312.0,Private
+443562,Dewey University-Hato Rey,8180.0,8180.0,22263.0,3952.0,Private
+443766,Strayer University-Tennessee,13920.0,13920.0,44016.0,19948.0,Private
+443784,Strayer University-Pennsylvania,13920.0,13920.0,44016.0,19948.0,Private
+445027,American InterContinental University System,12501.0,12501.0,42612.0,11205.0,Private
+445133,American InterContinental University-Houston,14843.0,14843.0,42612.0,11205.0,Private
+445188,University of California-Merced,16271.0,53873.0,69352.0,2115.0,Public
+445267,Central Methodist University-College of Graduate and Extended Studies,7200.0,7200.0,53620.0,1626.0,Private
+446048,Ave Maria University,31712.0,31712.0,56969.0,463.0,Private
+446233,Ecclesia College,17300.0,17300.0,43102.0,125.0,Private
+446385,Los Angeles College of Music,30540.0,30540.0,44742.0,59.0,Private
+446604,Uta Mesivta of Kiryas Joel,16000.0,16000.0,31810.0,686.0,Private
+446640,Harrisburg University of Science and Technology,25100.0,25100.0,48379.0,186.0,Private
+447050,United States University,7158.0,7158.0,72456.0,114.0,Private
+447689,Georgia Gwinnett College,4532.0,14108.0,48736.0,5467.0,Public
+447953,SUM Bible College and Theological Seminary,5660.0,5660.0,41407.0,245.0,Private
+449038,Strayer University-Florida,13920.0,13920.0,44016.0,19948.0,Private
+449339,American Public University System,8400.0,8400.0,41320.0,25350.0,Private
+449384,Gnomon,37995.0,37995.0,124464.0,54.0,Private
+449658,Bais Medrash Toras Chesed,8500.0,8500.0,84562.0,31.0,Private
+449898,South University-Tampa,18145.0,18145.0,39314.0,20910.0,Private
+450298,Strayer University-Delaware,13920.0,13920.0,44016.0,19948.0,Private
+450377,Strayer University-Alabama,13920.0,13920.0,44016.0,19948.0,Private
+450933,Columbia Southern University,6472.0,6472.0,66855.0,5151.0,Private
+451370,Yeshivas Be'er Yitzchok,11450.0,11450.0,67184.0,24.0,Private
+451398,Yeshiva Toras Chaim,12800.0,12800.0,35583.0,45.0,Private
+451404,Talmudical Seminary of Bobov,13200.0,13200.0,19545.0,139.0,Private
+453163,Strayer University-North Carolina,13920.0,13920.0,44016.0,19948.0,Private
+453215,Strayer University-New Jersey,13920.0,13920.0,44016.0,19948.0,Private
+454227,Chamberlain University-Illinois,22243.0,22243.0,96897.0,9834.0,Private
+454236,Chamberlain University-Ohio,20845.0,20845.0,96897.0,9834.0,Private
+454245,Chamberlain University-Arizona,21655.0,21655.0,96897.0,9834.0,Private
+454582,Ottawa University-Online,13464.0,13464.0,59897.0,1504.0,Private
+454829,Aspen University,7570.0,7570.0,49178.0,79.0,Private
+455257,Yeshiva of Machzikai Hadas,11850.0,11850.0,25792.0,105.0,Private
+455664,The Chicago School at Los Angeles,22782.0,22782.0,60280.0,496.0,Private
+455770,Providence Christian College,41942.0,41942.0,39140.0,29.0,Private
+456481,Polytechnic University of Puerto Rico-Miami,14832.0,14832.0,50437.0,1347.0,Private
+456490,Polytechnic University of Puerto Rico-Orlando,15012.0,15012.0,50437.0,1347.0,Private
+456621,Strayer University-West Virginia,13920.0,13920.0,44016.0,19948.0,Private
+456959,University of Minnesota-Rochester,15944.0,15944.0,74314.0,9376.0,Public
+457129,Chamberlain University-Florida,20845.0,20845.0,96897.0,9834.0,Private
+457484,Pacific Rim Christian University,13580.0,13580.0,51712.0,34.0,Private
+458210,West Coast University-Anaheim-Orange County,24715.0,24715.0,104344.0,2518.0,Private
+458229,West Coast University-Ontario,38314.0,38314.0,104344.0,2518.0,Private
+458885,Strayer University-Arkansas,13920.0,13920.0,44016.0,19948.0,Private
+458919,Strayer University-Georgia,13920.0,13920.0,44016.0,19948.0,Private
+458955,Strayer University-Mississippi,13920.0,13920.0,44016.0,19948.0,Private
+458964,Strayer University-South Carolina,13920.0,13920.0,44016.0,19948.0,Private
+458973,Strayer University-Texas,13920.0,13920.0,44016.0,19948.0,Private
+459259,South University-Richmond,18145.0,18145.0,39314.0,20910.0,Private
+459268,South University-Virginia Beach,18145.0,18145.0,39314.0,20910.0,Private
+459727,Touro University Worldwide,14600.0,14600.0,77590.0,52.0,Private
+459842,Herzing University-Kenosha,13820.0,13820.0,44255.0,5812.0,Private
+459949,Texas A&M University-San Antonio,9760.0,23376.0,58747.0,17.0,Public
+459994,Strayer University-Global Region,13920.0,13920.0,44016.0,19948.0,Private
+460349,Johnson & Wales University-Online,13365.0,13365.0,53928.0,7690.0,Private
+460871,Chamberlain University-Virginia,20845.0,20845.0,96897.0,9834.0,Private
+461023,Crestpoint University,7995.0,7995.0,44444.0,710.0,Private
+461148,New York Film Academy,38274.0,38274.0,43578.0,288.0,Private
+461795,North American University,15436.0,15436.0,38538.0,153.0,Private
+461847,Keser Torah-Mayan Hatalmud,12460.0,12460.0,74808.0,31.0,Private
+462354,John Paul the Great Catholic University,31090.0,31090.0,53787.0,63.0,Private
+463056,University of Connecticut-Hartford Campus,18240.0,40908.0,82098.0,6722.0,Public
+464226,Ottawa University-Surprise,36550.0,36550.0,59897.0,1504.0,Private
+466921,Chamberlain University-Missouri,20845.0,20845.0,96897.0,9834.0,Private
+466930,Chamberlain University-Texas,22000.0,22000.0,96897.0,9834.0,Private
+475121,South University-Savannah Online,18145.0,18145.0,39314.0,20910.0,Private
+475200,Whitworth University-Adult Degree Programs,13560.0,13560.0,64055.0,934.0,Private
+475608,Criswell College,17190.0,17190.0,50531.0,80.0,Private
+475732,Chamberlain University-Georgia,21250.0,21250.0,96897.0,9834.0,Private
+475741,Chamberlain University-Indiana,20845.0,20845.0,96897.0,9834.0,Private
+476717,Be'er Yaakov Talmudic Seminary,12450.0,12450.0,25457.0,133.0,Private
+476975,Colorado State University Global,9000.0,9000.0,82047.0,3058.0,Public
+479956,Pennsylvania State University-World Campus,15510.0,15510.0,71762.0,25447.0,Public
+480073,South University-Austin,18145.0,18145.0,39314.0,20910.0,Private
+480198,Warner Pacific University Professional and Graduate Studies,15480.0,15480.0,59212.0,990.0,Private
+480985,Midwives College of Utah,8703.0,8703.0,56589.0,20.0,Private
+481058,Grace Mission University,3710.0,3710.0,22112.0,18.0,Private
+481720,South University-High Point,18145.0,18145.0,39314.0,20910.0,Private
+482149,Augusta University,8414.0,25202.0,52071.0,2208.0,Public
+482158,Middle Georgia State University,5038.0,16702.0,48459.0,3792.0,Public
+482413,DeVry College of New York,15992.0,15992.0,51716.0,40924.0,Private
+482422,DeVry University-Arizona,15992.0,15992.0,51716.0,40924.0,Private
+482459,DeVry University-Florida,15992.0,15992.0,51716.0,40924.0,Private
+482468,DeVry University-Georgia,15992.0,15992.0,51716.0,40924.0,Private
+482547,DeVry University-Nevada,15992.0,15992.0,51716.0,40924.0,Private
+482556,DeVry University-New Jersey,15992.0,15992.0,51716.0,40924.0,Private
+482574,DeVry University-Ohio,15992.0,15992.0,51716.0,40924.0,Private
+482635,DeVry University-Texas,15992.0,15992.0,51716.0,40924.0,Private
+482653,DeVry University-Virginia,15992.0,15992.0,51716.0,40924.0,Private
+482680,University of North Georgia,5434.0,17289.0,55822.0,5841.0,Public
+483036,Texas A&M University-Central Texas,7383.0,17174.0,55645.0,70.0,Public
+483124,Arizona State University Digital Immersion,11974.0,14072.0,69111.0,22781.0,Public
+484473,University of Florida-Online,3876.0,16579.0,78456.0,8457.0,Public
+484613,University of Phoenix-Arizona,9552.0,9552.0,43584.0,150594.0,Private
+485272,West Coast University-Miami,24008.0,24008.0,104344.0,2518.0,Private
+485999,Bet Medrash Gadol Ateret Torah,11300.0,11300.0,28059.0,27.0,Private
+486840,Kennesaw State University,5808.0,18072.0,62766.0,10643.0,Public
+486901,Milligan University,41100.0,41100.0,57255.0,396.0,Private
+486938,Chamberlain University-Nevada,21250.0,21250.0,96897.0,9834.0,Private
+486947,Chamberlain University-Michigan,21655.0,21655.0,96897.0,9834.0,Private
+486956,Chamberlain University-New Jersey,20845.0,20845.0,96897.0,9834.0,Private
+487375,Arizona College of Nursing-Las Vegas,24600.0,24600.0,41223.0,1077.0,Private
+487524,Husson University,24126.0,24126.0,57136.0,1228.0,Private
+487603,Northwest University-Center for Online and Extended Education,15561.0,15561.0,61237.0,685.0,Private
+488679,Indiana Wesleyan University-National & Global,8448.0,8448.0,65692.0,6324.0,Private
+489344,Chamberlain University-North Carolina,21655.0,21655.0,96897.0,9834.0,Private
+489353,Chamberlain University-California,22465.0,22465.0,96897.0,9834.0,Private
+489937,Carolina University,19775.0,19775.0,37560.0,504.0,Private
+490805,Purdue University Northwest,8675.0,16577.0,58620.0,3699.0,Public
+492759,Chamberlain University-Louisiana,20845.0,20845.0,96897.0,9834.0,Private
+492801,Drury University-College of Continuing Professional Studies,8054.0,8054.0,45136.0,1755.0,Private
+492962,Indiana Institute of Technology-College of Professional Studies,9576.0,9576.0,47076.0,3042.0,Private
+494162,Arizona College of Nursing-Dallas,24600.0,24600.0,41223.0,1077.0,Private
+495420,Arizona College of Nursing-Tampa,23213.0,23213.0,41223.0,1077.0,Private
+495439,Arizona College of Nursing-Fort Lauderdale,26093.0,26093.0,41223.0,1077.0,Private
+495448,Arizona College of Nursing-Tucson,25933.0,25933.0,41223.0,1077.0,Private
+495457,Arizona College of Nursing-Phoenix,26733.0,26733.0,41223.0,1077.0,Private
+496283,Provo College-Idaho Falls Campus,19506.0,19506.0,42739.0,465.0,Private
+496326,Eagle Gate College-Boise Campus,19506.0,19506.0,41796.0,1081.0,Private
+497037,Abilene Christian University-Undergraduate Online,14520.0,14520.0,61376.0,1147.0,Private
+497268,Arizona College of Nursing-Salt Lake City,22707.0,22707.0,41223.0,1077.0,Private
+497824,Evangel University-College of Online Learning,7346.0,7346.0,47597.0,925.0,Private
+498049,Arizona College of Nursing-Southfield,25667.0,25667.0,41223.0,1077.0,Private
+498447,Arizona College of Nursing-Falls Church,25133.0,25133.0,41223.0,1077.0,Private
+498456,Arizona College of Nursing-Ontario,32867.0,32867.0,41223.0,1077.0,Private
+498562,Commonwealth University of Pennsylvania,11610.0,23976.0,56416.0,7278.0,Public
+498571,Pennsylvania Western University,12075.0,17006.0,51161.0,8192.0,Public
+499370,Arizona College of Nursing-Sarasota,23213.0,23213.0,41223.0,1077.0,Private
+499389,Arizona College of Nursing-Aurora,25667.0,25667.0,41223.0,1077.0,Private
+499398,Arizona College of Nursing-Cincinnati,23880.0,23880.0,41223.0,1077.0,Private
+499404,Arizona College of Nursing-Cleveland,23880.0,23880.0,41223.0,1077.0,Private
+500290,Arizona College of Nursing - Chesapeake,25400.0,25400.0,41223.0,1077.0,Private
+500306,Arizona College of Nursing - Hartford,25667.0,25667.0,41223.0,1077.0,Private
+500333,Arizona College of Nursing-St Louis,24600.0,24600.0,41223.0,1077.0,Private
+501488,West Coast University-Los Angeles,38314.0,38314.0,104344.0,2518.0,Private
+501521,Herzing University-Clarksville,13820.0,13820.0,44255.0,5812.0,Private
