@@ -1,6 +1,6 @@
 # Assignment 01 — Seattle Apartment Rent and Mixed-Income Housing
 
-This folder contains the CISC7204 Assignment 01 proposal, exploratory notebook, publicly downloaded source data, a reproducible analysis script, and generated visualizations.
+This folder contains the CISC7204 Assignment 01 proposal, Jupyter notebook, publicly downloaded source data, and visualizations saved in the notebook.
 
 ## Research question
 
@@ -12,7 +12,7 @@ The rent table is downloaded from Seattle Open Data’s [Apartment Market Rent P
 
 ## Methods and tools
 
-The analysis standardizes column names and numeric types, removes incomplete analysis rows and non-positive rent observations, summarizes rent over time and by community, and compares rent with mixed-income apartment counts. It uses Python, pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. The script reports Pearson correlations and evaluates an exploratory quadratic model with random and time-based splits.
+The analysis standardizes column names and numeric types, removes incomplete analysis rows and non-positive rent observations, summarizes rent over time and by community, and compares rent with mixed-income apartment counts. It uses Python, pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. The notebook reports Pearson correlations and evaluates an exploratory quadratic model with random and time-based splits.
 
 ## Findings
 
@@ -39,14 +39,7 @@ The analysis uses aggregate tract observations rather than individual households
 
 ## Reproduce
 
-From this directory, install the repository-level dependencies and run:
-
-```bash
-python -m pip install -r ../requirements.txt
-python analyze_seattle_rent.py
-```
-
-The script reads `seattle_rent.csv` and recreates the figures in `figures/`. Open `seattle_rent.ipynb` in Jupyter to review the exploratory notebook.
+From this directory, install the repository-level dependencies, then open seattle_rent.ipynb in Jupyter and run its cells from top to bottom. The visualizations above are the notebook’s saved outputs.
 
 ## Status
 

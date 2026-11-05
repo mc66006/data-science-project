@@ -16,7 +16,7 @@ The cleaned sample contains 1,731 institutions. Tuition and ten-year median earn
 
 ![Tuition and earnings](figures/tuition-earnings-scatter.png)
 
-![Earnings by institution type](figures/earnings-by-institution-type.png)
+![Ten-year earnings distribution by tuition category](figures/earnings-distribution-by-tuition-category.png)
 
 ## Data source
 
@@ -27,5 +27,4 @@ The institution-level extract was downloaded from the U.S. Department of Educati
 - [Revised project proposal](CISC7204-Assgn02-Pair14-RevisedProjectProposal.docx)
 - [Analysis notebook](CISC7204-Assgn02-Pair14-CollegeTuition-Earnings-Analysis.ipynb)
 - [Results and limitations](RESULTS.md)
-- [Reproduction script](analyze_college_scorecard.py)
 - [Cleaned data](cleaned_data.csv)

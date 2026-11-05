@@ -1,6 +1,6 @@
 # CISC7204 Assignment 02 — College Tuition and Earnings
 
-This folder contains the Assignment 02 proposal, notebook, source extract, cleaned data, reproducible analysis script, results report, and generated visualizations.
+This folder contains the Assignment 02 proposal, Jupyter notebook, source extract, cleaned data, results report, and visualizations saved in the notebook.
 
 ## Research question
 
@@ -12,7 +12,7 @@ The institution-level CSV extract was downloaded from the [U.S. Department of Ed
 
 ## Methods and tools
 
-The analysis keeps institutions whose predominant degree is bachelor's degree (`PREDDEG == 3`), converts suppressed earnings values to missing, removes missing or non-positive tuition and earnings values, and maps control codes to Public or Private. Private combines for-profit and nonprofit institutions. The script uses Python, pandas, NumPy, and Matplotlib to clean the data, calculate group summaries and Pearson correlations, and create the figures.
+The analysis keeps institutions whose predominant degree is bachelor's degree (`PREDDEG == 3`), converts suppressed earnings values to missing, removes missing or non-positive tuition and earnings values, and maps control codes to Public or Private. Private combines for-profit and nonprofit institutions. The notebook uses Python, pandas, NumPy, and Matplotlib to clean the data, calculate group summaries and Pearson correlations, and create the figures.
 
 ## Findings
 
@@ -29,7 +29,7 @@ In this filtered sample, tuition and 10-year median earnings have a positive ass
 
 ![Tuition and 10-year earnings by institution type](figures/tuition-earnings-scatter.png)
 
-![10-year earnings by institution type](figures/earnings-by-institution-type.png)
+![Ten-year earnings distribution by tuition category](figures/earnings-distribution-by-tuition-category.png)
 
 ![Tuition distribution by institution and residency](figures/tuition-distribution.png)
 
@@ -39,14 +39,7 @@ The data are institution-level aggregates, so they cannot describe individual st
 
 ## Reproduce
 
-From this directory, keep the notebook, `Most-Recent-Cohorts-Institution.csv`, and `cleaned_data.csv` together. Install the repository-level dependencies and run:
-
-```bash
-python -m pip install -r ../requirements.txt
-python analyze_college_scorecard.py
-```
-
-The script rewrites `cleaned_data.csv` and saves the three figures in `figures/`. Alternatively, open `CISC7204-Assgn02-Pair14-CollegeTuition-Earnings-Analysis.ipynb` in Jupyter and run its cells from top to bottom. `RESULTS.md` records the executed findings and limitations.
+From this directory, install the repository-level dependencies, then open CISC7204-Assgn02-Pair14-CollegeTuition-Earnings-Analysis.ipynb in Jupyter and run its cells from top to bottom. The visualizations above are the notebook’s saved outputs; RESULTS.md records the findings and limitations.
 
 ## Status
 

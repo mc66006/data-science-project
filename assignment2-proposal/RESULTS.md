@@ -8,15 +8,11 @@ Is annual undergraduate tuition associated with the median earnings of students 
 
 The analysis uses the College Scorecard institution-level extract supplied in the project archive. It keeps institutions whose predominant degree is bachelor's degree (`PREDDEG == 3`), converts the suppressed `PS` earnings values to missing, removes missing or non-positive tuition and earnings values, and maps control code 1 to Public and codes 2 or 3 to Private. The Private category combines for-profit and nonprofit institutions. The final table contains 1,731 institutions: 566 public and 1,165 private.
 
-The main tuition variable is annual in-state tuition. Public out-of-state tuition is used only for the tuition-distribution comparison. The analysis reports unweighted medians, means, and Pearson correlations within institution type. The script also creates a scatter plot with group trend lines, an earnings box plot, and a tuition-distribution box plot.
+The main tuition variable is annual in-state tuition. Public out-of-state tuition is used only for the tuition-distribution comparison. The notebook reports unweighted medians, means, and Pearson correlations within institution type. Its saved outputs include a scatter plot with group trend lines, an earnings violin plot, and a tuition-distribution box plot.
 
-Run from this directory:
+## Reproduce
 
-```bash
-python analyze_college_scorecard.py
-```
-
-The script rewrites `cleaned_data.csv` and saves figures in `figures/`.
+Open CISC7204-Assgn02-Pair14-CollegeTuition-Earnings-Analysis.ipynb in Jupyter and run its cells from top to bottom. The findings and visualizations documented here come from the notebook’s saved results.
 
 ## Findings
 
@@ -38,4 +34,4 @@ In this filtered institution-level sample, tuition and 10-year median earnings h
 
 ## Reproducibility status
 
-The proposal, raw extract, cleaned data, notebook, executable script, results, and generated figures are stored together in this folder. The original proposal and notebook are retained; the notebook now includes a findings and limitations discussion, while the script and this report provide independent reproduction and presentation-ready figures.
+The proposal, raw extract, cleaned data, notebook, results, and notebook-generated figures are stored together in this folder. The notebook includes the findings and limitations discussion, and its saved outputs support the figures shown in the documentation.
